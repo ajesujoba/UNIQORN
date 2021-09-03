@@ -3,4 +3,6 @@
 To use the KG
 
 1. Perform NERD over the questions. NERD is done using both TAGME and ELQ. We have provided the code to do this in the ...
-2. 
+2. Extract the Meta data need to answer the questions, this includes, the SPO, NED entity names, Types (occupation and instance), and Aliases. This can be carried out using CLOCQ. 
+3. Score the SPO Triples and Types from CLOCQ using the pretrained BERT model. 
+4. Answer questions over the scored Triples and Meta Data
