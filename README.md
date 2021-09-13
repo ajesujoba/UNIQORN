@@ -16,3 +16,24 @@ A running example in this paper is:
 <p> <figcaption> Context graphs (XG) built by Uniqorn for the question 𝑞 = director of the western for which Leo won an Oscar? Anchors are nodes with (partly) underlined labels; answers are in bold. Orange subgraphs are Group Steiner Trees. </figcaption></p>
 
 <p> For more information, please contact: <a href="mailto: soumajit@iitbhilai.ac.in">Soumajit Pramanik</a>, <a href="mailto:alabijesujoba@gmail.com">Jesujoba Alabi</a>, <a href="mailto:rishiraj@mpi-inf.mpg.de">Rishiraj Saha Roy</a> or <a href="mailto:weikum@mpi-inf.mpg.de">Gerhard Weikum</a></p>
+
+If you use our model, please cite this paper
+```
+@article{DBLP:journals/corr/abs-2108-08614,
+  author    = {Soumajit Pramanik and
+               Jesujoba Alabi and
+               Rishiraj Saha Roy and
+               Gerhard Weikum},
+  title     = {{UNIQORN:} Unified Question Answering over {RDF} Knowledge Graphs
+               and Natural Language Text},
+  journal   = {CoRR},
+  volume    = {abs/2108.08614},
+  year      = {2021},
+  url       = {https://arxiv.org/abs/2108.08614},
+  eprinttype = {arXiv},
+  eprint    = {2108.08614},
+  timestamp = {Mon, 23 Aug 2021 14:07:13 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2108-08614.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+```
