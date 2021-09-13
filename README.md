@@ -6,5 +6,9 @@ Question answering over knowledge graphs and other RDF data has been greatly adv
 
 A running example in this paper is:
 ```Question: director of the western for which Leo won an Oscar? [Answer: Alejandro Iñàrritu]```
+![xg-kg](https://user-images.githubusercontent.com/12751379/133112528-08ac04af-e744-4576-bdce-9cb84d0e2096.png)
 
+![xg-text](https://user-images.githubusercontent.com/12751379/133112436-148d2034-0379-4139-ae91-c209ec641df0.png)
+
+![xg-kg-text](https://user-images.githubusercontent.com/12751379/133112556-8011ffbb-7aca-4705-ad78-cc7fbdcf9b9e.png)
 
