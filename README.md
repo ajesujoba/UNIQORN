@@ -12,6 +12,7 @@ A running example in this paper is:
 <!--![xg-kg](https://user-images.githubusercontent.com/12751379/133112528-08ac04af-e744-4576-bdce-9cb84d0e2096.png)-->
 <figcaption align = "center"><b>Fig.1 - </b>XG(q) example for KG as input.</figcaption></figure>
 
+
 Context graphs (XG) built by Uniqorn for the question 𝑞 = director of the western for which Leo won an Oscar? Anchors are nodes with (partly) underlined labels; answers are in bold. Orange subgraphs are GroupSteiner Trees.
 
 Please refer to our paper for further details.
