@@ -8,7 +8,8 @@ A running example in this paper is:
 ```Question: director of the western for which Leo won an Oscar? [Answer: Alejandro Iñàrritu]```
 
 <figure>
-![xg-kg](https://user-images.githubusercontent.com/12751379/133112528-08ac04af-e744-4576-bdce-9cb84d0e2096.png)
+ <img src="https://user-images.githubusercontent.com/12751379/133112528-08ac04af-e744-4576-bdce-9cb84d0e2096.png" alt="Trulli" style="width:100%">
+<!--![xg-kg](https://user-images.githubusercontent.com/12751379/133112528-08ac04af-e744-4576-bdce-9cb84d0e2096.png)-->
 <figcaption align = "center"><b>Fig.1 - 4K Mountains Wallpaper</b></figcaption></figure>
 
 
