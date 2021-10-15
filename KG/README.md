@@ -34,10 +34,24 @@ bash score_triple.sh
 bash score_type.sh
 
 ```
-### 4. Answer Questions
+### 4. Get the highscoring path between Seed entities
+The next step is to get the paths between the seed en
+```
+cd TripleScorer
+# To score the facts
+bash score_triple.sh
+# To score the facts
+bash score_type.sh
+
+```
+### 5. Answer Questions
 Answer questions over the scored Triples and Meta Data
 ```
 cd uniqorn
 #Answer questions
 bash runanswer.sh 
 ```
+### Notes
+1. Download the finetuned BERT model from <a href = "qa.mpi-inf.mpg.de/uniqorn/models/uniqorn.zip"> here </a>
+2. The CLOCQ code for the extraction of triples is not yet online, this should be available in the coming week. 
+

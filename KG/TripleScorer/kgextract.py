@@ -4,12 +4,12 @@ import copy
 import BERT.dataset as dataset
 import torch
 from collections import OrderedDict
-from BERT.model import BERTBaseUncased
+from BERT.model import BERTBaseCased
 import torch.nn as nn
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 def getBERTmodel(bertdir):
-    MODEL = BERTBaseUncased()
+    MODEL = BERTBaseCased()
     model_old = torch.load(bertdir, map_location=device)
     new_state_dict = OrderedDict()
     for k, v in model_old.items():
