@@ -218,10 +218,7 @@ def call_process(args):
     ques_id_upper=args[0][2]
     topcontext = args[1][0]
     no_GST = args[2]
-    print(topcontext)
-    print(no_GST)
-    #return  
-    #model = args[0][3]
+    
     for q in range(ques_id_lower, ques_id_upper):
         t1 = time.time()
         tend = time.time()
@@ -259,9 +256,10 @@ def call_process(args):
             h2 = 0
             t1 = time.time()
             print(graph_file)
+            call_main_GST(graph_file, cornerstone_file, qtype, answer_list_file, no_GST, gdict, verbose,gt,config,h2)
              
-            graph_node,graph_edge,GST_match_flag, candidate_match_flag1,  top_match_flag1, candidate_match_flag2, top_match_flag2, candidate_match_flag3, top_match_flag3, candidate_match_flag4, top_match_flag4, candidate_match_flag5, top_match_flag5 =call_main_GST(graph_file, cornerstone_file, qtype, answer_list_file, no_GST, gdict, verbose,gt,config,h2)
-            #graph_node,graph_edge,GST_set,GST_match_flag, candidate_match_flag1,candidate_match_flag_top1, top_match_flag1, candidate_match_flag2,candidate_match_flag_top2, top_match_flag2, candidate_match_flag3,candidate_match_flag_top3, top_match_flag3, candidate_match_flag4,candidate_match_flag_top4, top_match_flag4, candidate_match_flag5,candidate_match_flag_top5, top_match_flag5 = call_main_GST(graph_file, cornerstone_file, qtype, answer_list_file, no_GST, gdict, verbose,gt,config,h2)
+            #graph_node,graph_edge,GST_match_flag, candidate_match_flag1,  top_match_flag1, candidate_match_flag2, top_match_flag2, candidate_match_flag3, top_match_flag3, candidate_match_flag4, top_match_flag4, candidate_match_flag5, top_match_flag5 =call_main_GST(graph_file, cornerstone_file, qtype, answer_list_file, no_GST, gdict, verbose,gt,config,h2)
+
             queue.put(qid)
             writer(queue)
             compltedd = True

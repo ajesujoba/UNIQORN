@@ -1129,7 +1129,7 @@ def call_main_GST(f1,f2,f4,f5,no_GST,gdict,verbose,gt1,config,h2):
     str1=f5+'_corner_dist_wt'
     pickle.dump(answer_list,open(str1,'wb'))
     
-    return len(G.nodes()),len(G.edges()), match_flag, candidate_match_flag1, top_match_flag1, candidate_match_flag2, top_match_flag2, candidate_match_flag3, top_match_flag3, candidate_match_flag4, top_match_flag4, candidate_match_flag5, top_match_flag5
+    return True#len(G.nodes()),len(G.edges()), match_flag, candidate_match_flag1, top_match_flag1, candidate_match_flag2, top_match_flag2, candidate_match_flag3, top_match_flag3, candidate_match_flag4, top_match_flag4, candidate_match_flag5, top_match_flag5
 	
 if __name__ == "__main__":
     main(sys.argv)		

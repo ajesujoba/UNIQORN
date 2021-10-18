@@ -1072,11 +1072,13 @@ def degenerate(G):
 
 def addtoGraph(G,nodeweightavg,questn_tokens,predalias_tokens,path_file,entity_names,stempred,entcornerdict,pred_count,type_count):
     #(G,nodeweightavg,questn_tokens,path_file,entity_names,stempred,entcornerdict,pred_count,type_count)
+    print('Connecting seed entity paths')
     
     allnodes = list(G.nodes)
     allentities = [item+':Entity' for item in entity_names]
 
     entityinG = list(set(allnodes).intersection(set(allentities)))
+
 
     if len(entityinG) <=1 :
         return G, nodeweightavg
@@ -1089,6 +1091,7 @@ def addtoGraph(G,nodeweightavg,questn_tokens,predalias_tokens,path_file,entity_n
         try:
             allpaths = pickle.load(open(path_file,'rb'))
         except FileNotFoundError:
+            print('Path connection files not found')
             return G, nodeweightavg
         if len(allpaths) <=0:
             return G, nodeweightavg
@@ -1150,7 +1153,8 @@ def formatTriple(triples):
         #if verbose:
         #       print line
         #l=line.strip().split(' | ')
-        triple=line.strip().split(' ### ')
+        triple=line.strip().split('###')
+        triple = [item.strip() for item in triple]
         print('tple == ', triple)
         #triple_list.append((l[0],l[1],l[2],l[3],l[4],l[5],l[6],l[7]))
         if triple[0]!='Qualifier':
@@ -1256,7 +1260,8 @@ def call_main_GRAPH(spofile,typefile,cornerstone_file, graph_file,path_file, ent
         #if verbose:
         #       print line
         #l=line.strip().split(' | ')
-        triple=line.strip().split(' ### ')
+        triple=line.strip().split('###')
+        triple = [item.strip() for item in triple]
         #triple_list.append((l[0],l[1],l[2],l[3],l[4],l[5],l[6],l[7]))
         if triple[0]!='Qualifier':
             first_flag=1
@@ -1309,7 +1314,7 @@ def call_main_GRAPH(spofile,typefile,cornerstone_file, graph_file,path_file, ent
     #Question vectors and node vectors are built inside
     #G=build_graph_from_triple_edges(unique_SPO_dict,q_ent,type_qent,gdict,mention_dict,Cornerstone_Matching)
     G, nodeweightavg, entcornerdict,pred_count,type_count = build_graph_from_triple_edges(unique_SPO_dict,questn_tokens,predalias_tokens,entity_names,stempred)
-    if config['connectseed'] == '1':
+    if int(config['connectseed']) == 1 :
         G,nodeweightavg = addtoGraph(G,nodeweightavg,questn_tokens,predalias_tokens,path_file,entity_names,stempred,entcornerdict,pred_count,type_count)
     G = update_edge_weight(G)
     if degeneratex == True:

@@ -4,7 +4,7 @@ python answer.py \
 	--inputfile /GW/qa2/work/uniqorn/Crawl_Google_docs/LCQuAD_2/KGmode/getEntity/getSeedEnt/GitCode/train.json \
 	--topk 5 \
 	--n_GST 10 \
-	--addType 0 --connectseed 0 \
+	--addType 1 --connectseed 1 \
 	--chain_join_flag 1 \
 	--logfile logo
 

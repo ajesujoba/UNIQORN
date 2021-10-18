@@ -17,11 +17,23 @@ cd Meta
 # To extract the facts from wikidata for the seed entity
 bash ExtractCLOCQSPO.sh
 # To get all entity Types ()
-getCLOCQTypes.sh
+bash getCLOCQTypes.sh
 # To obtain the names of the Seed entities
 bash getCLOCQSeeds.sh
 # To obtain the Predicate aliases
 bash getCLOCQAliases.sh
+
+# We are also retrieveing 1/2-hop(s) paths betweeen seed entities, we score those paths and we pick the most relevant path to the question using cosine similarity between the question and thr question vector representation obtained from BERT
+# to get the Paths (triples) between the seed entities using CLOCQ
+bash extractPath.sh
+# extract the Label (Surface form of the paths)
+bash extractPathLabel.sh
+# score the triples based on their relevance to the question 
+bash scorepath.sh
+# Get the most relevant path (top scoring path)
+bash getTopPaths.sh
+# Get the predicate aliases for the seed connection paths and update the previous aliases.
+bash getPathAliases.sh
 
 ```
 ### 3. Facts/Triples scoring with BERT
@@ -34,17 +46,8 @@ bash score_triple.sh
 bash score_type.sh
 
 ```
-### 4. Get the highscoring path between Seed entities
-The next step is to get the paths between the seed en
-```
-cd TripleScorer
-# To score the facts
-bash score_triple.sh
-# To score the facts
-bash score_type.sh
 
-```
-### 5. Answer Questions
+### 4. Answer Questions
 Answer questions over the scored Triples and Meta Data
 ```
 cd uniqorn
@@ -52,6 +55,6 @@ cd uniqorn
 bash runanswer.sh 
 ```
 ### Notes
-1. Download the finetuned BERT model from <a href = "qa.mpi-inf.mpg.de/uniqorn/models/uniqorn.zip"> here </a>
+1. Download the finetuned BERT model from <a href = "qa.mpi-inf.mpg.de/uniqorn/models/uniqorn_KG.zip"> here </a>
 2. The CLOCQ code for the extraction of triples is not yet online, this should be available in the coming week. 
 
