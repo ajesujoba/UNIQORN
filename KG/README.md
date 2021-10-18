@@ -55,6 +55,6 @@ cd uniqorn
 bash runanswer.sh 
 ```
 ### Notes
-1. Download the finetuned BERT model from <a href = "https://qa.mpi-inf.mpg.de/uniqorn/models/uniqorn_KG.zip"> here </a>
+1. Download the finetuned BERT model from <a href = "https://qa.mpi-inf.mpg.de/uniqorn/models/KG/uniqorn_KG.zip"> here </a>
 2. The CLOCQ code for the extraction of triples is not yet online, this should be available in the coming week. 
 
