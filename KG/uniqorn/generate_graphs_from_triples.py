@@ -1206,7 +1206,8 @@ def formatTriple(triples):
             unique_SPO_dict[(n1,n2,n3)]['score_qual'].append(score_qual)
     return unique_SPO_dict
 
-
+def prepro(text):
+    return text.strip().strip('"').replace(':',' ').strip()
 
 def call_main_GRAPH(spofile,typefile,cornerstone_file, graph_file,path_file, entity_dir, questn_tokens,pred_aliases_dir, config,topcontext=0,stempred=False,degeneratex=False):
     f11=open(spofile,'r')
@@ -1216,6 +1217,7 @@ def call_main_GRAPH(spofile,typefile,cornerstone_file, graph_file,path_file, ent
     
     with open(entity_dir, 'r') as filehandle:
         entity_names = json.load(filehandle)
+    entity_names = [prepro(item) for item in entity_names]
     #print("enity names = ", entity_names)
 
     with open(pred_aliases_dir, 'r') as filehandle:
