@@ -1,150 +1,150 @@
-{"id": "ques-TQ150-1", "question": "In which event did Taylor Swift and Joe Alwyn appear together?", "Ground Truth": ["the jingle bell", "the jingle bell ball", "met gala"], "Predictions": ["film actor", "2019-01-01t00 00 00z"]}
-{"id": "ques-TQ150-2", "question": "Which photographer did Jana Kramer play in Christmas in Mississipi?", "Ground Truth": ["holly logan"], "Predictions": ["photography"]}
-{"id": "ques-TQ150-3", "question": "Who played for Barcelona and managed Real Madrid?", "Ground Truth": ["bernd schuster", "enrique fern\u00e1ndez viola"], "Predictions": ["francisco mateo"]}
-{"id": "ques-TQ150-4", "question": "Which singer was affiliated to the band Shinee and died in Seoul?", "Ground Truth": ["kim jong-hyun"], "Predictions": ["park tae-joon", "lee ae-jung"]}
-{"id": "ques-TQ150-5", "question": "Which daughter of Craig Sager married Kutter Brandt?", "Ground Truth": ["krista sager"], "Predictions": ["q30"]}
-{"id": "ques-TQ150-6", "question": "Who is married to Morgan Spurlock and is a vice-president at HBO?", "Ground Truth": ["sara bernstein"], "Predictions": ["businessperson", "vladimir gusinsky", "profession", "film director", "alex jamieson"]}
-{"id": "ques-TQ150-7", "question": "Which Hanukkah song was written and performed by Adam Sandler?", "Ground Truth": ["the chanukah song"], "Predictions": ["big daddy"]}
-{"id": "ques-TQ150-8", "question": "Who dated Carson Wentz and lived in North Dakota?", "Ground Truth": ["melissa uhrich"], "Predictions": ["mark selland"]}
-{"id": "ques-TQ150-9", "question": "What is the name of the child of Travis Scott and Kylie Jenner?", "Ground Truth": ["stormi webster"], "Predictions": ["stormi webster"]}
-{"id": "ques-TQ150-10", "question": "Which 2018 rap song did Nicki Minaj and Cardi B sing together?", "Ground Truth": ["motorsport"], "Predictions": ["singer"]}
-{"id": "ques-TQ150-11", "question": "Which model was married to Tiger Woods and was born in Sweden?", "Ground Truth": ["elin nordegren"], "Predictions": ["elin nordegren"]}
-{"id": "ques-TQ150-12", "question": "Which aspring model split with Chloe Moretz and is dating Lexi Wood?", "Ground Truth": ["brooklyn beckham"], "Predictions": ["kick-ass 2", "the addams family"]}
-{"id": "ques-TQ150-13", "question": "In which movie did Omar Sharif play the role of Sherif Ali?", "Ground Truth": ["lawrence of arabia"], "Predictions": ["genghis khan", "academy award for best supporting actor"]}
-{"id": "ques-TQ150-14", "question": "Who acted in Blue Bloods and graduated from Yale University?", "Ground Truth": ["peter hermann", "jack schlossberg"], "Predictions": ["spanish", "dorothea salo", "indiana university bloomington"]}
-{"id": "ques-TQ150-15", "question": "Which Scottish singer founded Frightened Rabbit and studied at the Glasgow School of Art?", "Ground Truth": ["scott hutchison"], "Predictions": ["united kingdom"]}
-{"id": "ques-TQ150-16", "question": "Which American music band performed I Can Only Imagine and released the album Spoken For?", "Ground Truth": ["mercyme"], "Predictions": ["emi records", "record label", "curb records"]}
-{"id": "ques-TQ150-17", "question": "Which American singer released Gotham City and was married to Aaliyah?", "Ground Truth": ["robert sylvester kelly"], "Predictions": ["damon dash"]}
-{"id": "ques-TQ150-18", "question": "When is the release date of Jurassic World 2 in the USA?", "Ground Truth": ["june 22 2018"], "Predictions": ["jurassic park iii", "universal pictures"]}
-{"id": "ques-TQ150-19", "question": "Who was a boyfriend of Lindsey Vonn and played for South Africa?", "Ground Truth": ["kenan smith"], "Predictions": ["divorce", "thomas vonn", "2007-09-29t00 00 00z", "2013-01-09t00 00 00z", "deer valley"]}
-{"id": "ques-TQ150-20", "question": "Which state in the United States of America is Tina Smith a governor of?", "Ground Truth": ["minnesota"], "Predictions": ["washington", "united states"]}
-{"id": "ques-TQ150-21", "question": "Which 2017 song performed by Luis Fonsi featured Daddy Yankee?", "Ground Truth": ["despacito"], "Predictions": ["despacito"]}
-{"id": "ques-TQ150-22", "question": "Who is married to John Mulaney and owns Silk Parlor?", "Ground Truth": ["annamarie tendler mulaney"], "Predictions": ["annamarie tendler"]}
-{"id": "ques-TQ150-23", "question": "Which songs did Blake Shelton and Gwen Stefani perform together?", "Ground Truth": ["go ahead and break my heart", "you make it feel like christmas", "christmas"], "Predictions": ["lonely tonight", "luxurious"]}
-{"id": "ques-TQ150-24", "question": "Who was a daughter of Aaron Hernandez and Shayanna Jenkins?", "Ground Truth": ["avielle janelle hernandez"], "Predictions": ["bristol central high school"]}
-{"id": "ques-TQ150-25", "question": "Which American professional baseball team does Yadier Molina play for in Major League Baseball?", "Ground Truth": ["st. louis cardinals"], "Predictions": ["q30"]}
-{"id": "ques-TQ150-26", "question": "Who is married to John Oliver and served in the Iraq War?", "Ground Truth": ["kate norley"], "Predictions": ["kate norley", "q30", "peter jones"]}
-{"id": "ques-TQ150-27", "question": "Which American attorney serves as the United States Secretary of Homeland Security and graduated from University of Virginia?", "Ground Truth": ["kirstjen nielsen"], "Predictions": ["thomas jefferson", "robert r. merhige, jr.", "mark levin", "juris doctor", "temple university beasley school of law", "john c. stennis"]}
-{"id": "ques-TQ150-28", "question": "Which British Indian actor played in Big Bang Theory and Sanjay and Craig?", "Ground Truth": ["kunal nayyar"], "Predictions": ["charlie sheen"]}
-{"id": "ques-TQ150-29", "question": "On the sets of which movie did Dwayne Johnson meet his girlfriend Lauren Hashian?", "Ground Truth": ["the game plan"], "Predictions": ["luke hobbs", "category films produced by dwayne johnson", "race to witch mountain", "furious 7", "fast five", "mitch buchannon", "jack bruno", "mathayus", "baywatch", "the scorpion king"]}
-{"id": "ques-TQ150-30", "question": "When did Paul Ryan retire from the post of Speaker of the United States House of Representatives?", "Ground Truth": ["april 11 2018"], "Predictions": ["john boehner", "2015-10-29t00 00 00z"]}
-{"id": "ques-TQ150-31", "question": "Which high school located in Texas did Baker Mayfield play for?", "Ground Truth": ["lake travis high school"], "Predictions": ["lake travis high school", "q30"]}
-{"id": "ques-TQ150-32", "question": "Which movie starring Dave Franco was directed by his brother James Franco?", "Ground Truth": ["the disaster artist"], "Predictions": ["the rental", "fright night"]}
-{"id": "ques-TQ150-33", "question": "What role did Dick Van Dyke play in Mary Poppins?", "Ground Truth": ["bert", "mr. dawes senior"], "Predictions": ["caractacus pott"]}
-{"id": "ques-TQ150-34", "question": "Where did Sylvie Vartan meet her future husband Johnny Hallyday?", "Ground Truth": ["paris olympia hall"], "Predictions": ["paris"]}
-{"id": "ques-TQ150-35", "question": "Which reality show did Matt Damon and Ben Affleck star in?", "Ground Truth": ["the runner"], "Predictions": ["volpi cup for best actor", "hollywoodland", "deadpool 2"]}
-{"id": "ques-TQ150-36", "question": "When did Kendrick Lamar appear on the radio show hosted by Howard Stern?", "Ground Truth": ["12 december 2017"], "Predictions": ["the howard stern show", "q30"]}
-{"id": "ques-TQ150-37", "question": "Which actor plays Neil on Walking Dead?", "Ground Truth": ["karl funk"], "Predictions": ["tovah feldshuh", "andrew j. west", "josh mcdermitt", "gareth", "dale horvath", "andrew lincoln", "jeffrey demunn", "deanna monroe", "rick grimes", "eugene porter"]}
-{"id": "ques-TQ150-38", "question": "Which city in Poland was Max Born born?", "Ground Truth": ["wroclaw"], "Predictions": ["jewish people", "wroc\\u0142aw"]}
-{"id": "ques-TQ150-39", "question": "Who was married to Omarosa and works as a pastor?", "Ground Truth": ["john allen newman"], "Predictions": ["vincenzo maria sarnelli", "france beydon", "1892-01-01t00 00 00z", "henri laget", "octave pampagnin", "christian religious occupation", "laurent gagnebin", "c\\u00e9sar maurin", "pierre-jean ruff", "albert atger", "paroisse r\\u00e9form\\u00e9e de bernis", "1878-01-01t00 00 00z", "gilles castelnau"]}
-{"id": "ques-TQ150-40", "question": "Which song composed by Nina Simone is also a traditional American folk song?", "Ground Truth": ["sea lion woman"], "Predictions": ["writ in water", "sirens"]}
-{"id": "ques-TQ150-41", "question": "Which thriller movie stars Christopher Plummer and is directed by Ridley Scott?", "Ground Truth": ["all the money in the world"], "Predictions": ["film"]}
-{"id": "ques-TQ150-42", "question": "Where in Toronto did Honey Sherman die?", "Ground Truth": ["north york"], "Predictions": ["q60", "autobiographer"]}
-{"id": "ques-TQ150-43", "question": "Which 2016 thriller stars Jodie Foster and Julia Roberts?", "Ground Truth": ["money monster"], "Predictions": ["academy award for best actress"]}
-{"id": "ques-TQ150-44", "question": "What role does Daisy Ridley play in The Last Jedi?", "Ground Truth": ["rey"], "Predictions": ["carrie fisher"]}
-{"id": "ques-TQ150-45", "question": "Which team was Carmelo Anthony traded from, when joining New York Knights?", "Ground Truth": ["denver nuggets"], "Predictions": ["new york knicks"]}
-{"id": "ques-TQ150-46", "question": "Which college did Joel Embiid play for in Kansas?", "Ground Truth": ["university of kansas"], "Predictions": ["university of kansas", "kip niven"]}
-{"id": "ques-TQ150-47", "question": "Which children's book authored by R. C. Sproul was illustrated by Richard Lawnes?", "Ground Truth": ["the knights map"], "Predictions": ["philip, lord de cognac"]}
-{"id": "ques-TQ150-48", "question": "In which city in China did Wu Yongning fall to his death?", "Ground Truth": ["changsha"], "Predictions": ["yuncheng county"]}
-{"id": "ques-TQ150-49", "question": "Which son of Queen Elizabeth II is married to the Countess of Wessex?", "Ground Truth": ["prince edward"], "Predictions": ["house of windsor"]}
-{"id": "ques-TQ150-50", "question": "Which motivational speaker dated Jodi Arias and was murdered by her?", "Ground Truth": ["travis alexander"], "Predictions": ["voice actor"]}
-{"id": "ques-TQ150-51", "question": "Which basketball player is engaged to Ryan Shazier and graduated from Texas State University?", "Ground Truth": ["michelle rodriguez"], "Predictions": ["pittsburgh steelers", "q30", "rita henley jensen", "ohio state university"]}
-{"id": "ques-TQ150-52", "question": "Which financier dated Venus Williams and accompanied her to the wedding of Serena Williams?", "Ground Truth": ["nicholas hammond"], "Predictions": ["alexis ohanian"]}
-{"id": "ques-TQ150-53", "question": "Which aerobic instructor married Tom Crean and is a brother of John Harbaugh?", "Ground Truth": ["joani harbaugh"], "Predictions": ["jim harbaugh"]}
-{"id": "ques-TQ150-54", "question": "Which role did Alicia Vikander play in Tomb Raider 2018?", "Ground Truth": ["lara croft"], "Predictions": ["ex machina", "ava"]}
-{"id": "ques-TQ150-55", "question": "What role does Jayne Atkinson play on The Walking Dead?", "Ground Truth": ["georgie"], "Predictions": ["alanna masterson", "tara chambler", "q30"]}
-{"id": "ques-TQ150-56", "question": "Which actor dated Pete Davidson and studied at Emerson College?", "Ground Truth": ["cazzie david"], "Predictions": ["q30", "tar\\u014d itsumi"]}
-{"id": "ques-TQ150-57", "question": "For which state in the USA is Cynthia Nixon running for governor in 2018?", "Ground Truth": ["new york"], "Predictions": ["washington"]}
-{"id": "ques-TQ150-58", "question": "When is the release date of Sea of Thieves in Germany?", "Ground Truth": ["march 20 2018"], "Predictions": ["united kingdom", "2018-03-20t00 00 00z"]}
-{"id": "ques-TQ150-59", "question": "Which American singer-songwriter composed DJT and was lead artist in Wrecking Ball?", "Ground Truth": ["aubrey oday"], "Predictions": ["gabriel zanetti", "bruce springsteen", "carol kaye", "los angeles", "occupation"]}
-{"id": "ques-TQ150-60", "question": "Which 2017 song featured Selena Gomez and Marshmello?", "Ground Truth": ["wolves"], "Predictions": ["q30"]}
-{"id": "ques-TQ150-61", "question": "Which children's book was authored by Karen Pence and Charlotte Pence?", "Ground Truth": ["marlon bundo\u2019s a day in the life of the vice president"], "Predictions": ["+3"]}
-{"id": "ques-TQ150-62", "question": "Which 2016 studio album was created by Shawn Mendes and released by Island Records?", "Ground Truth": ["illuminate"], "Predictions": ["bumpers"]}
-{"id": "ques-TQ150-63", "question": "Which singer was a member of Fifth Harmony and performed Crying in the Club?", "Ground Truth": ["camila cabello"], "Predictions": ["stevie wonder", "usa for africa", "don mclean", "single"]}
-{"id": "ques-TQ150-64", "question": "In which city in Mexico did Guillermo Haro live and die?", "Ground Truth": ["mexico city"], "Predictions": ["mexico city", "los angeles", "city with millions of inhabitants"]}
-{"id": "ques-TQ150-65", "question": "Which author was a son of Fred Rogers and wrote Learning Power?", "Ground Truth": ["john frederick rogers"], "Predictions": ["rollins college", "theologian", "screenwriter", "educator", "songwriter", "university of pittsburgh", "television presenter", "thiel college", "minister", "2003-02-27t00 00 00z"]}
-{"id": "ques-TQ150-66", "question": "Which actor plays Spencer Gilpin in Jumanji Welcome to the Jungle?", "Ground Truth": ["alex wolff"], "Predictions": ["james handy"]}
-{"id": "ques-TQ150-67", "question": "Who studied at Marymount Manhattan College and married Donald Trump Jr.?", "Ground Truth": ["vanessa trump"], "Predictions": ["vanessa trump"]}
-{"id": "ques-TQ150-68", "question": "Which Japanese baseball player was contracted for Los Angeles Angels who also played for Hokkaido Nippon-Ham Fighters?", "Ground Truth": ["shohei ohtani"], "Predictions": ["tsutomu ikeda"]}
-{"id": "ques-TQ150-69", "question": "Which professional baseball player played for St. Louis Cardinals and is nicknamed Yadi?", "Ground Truth": ["yadier benjamin molina"], "Predictions": ["hank gornicki"]}
-{"id": "ques-TQ150-70", "question": "Which American professional baseball player was contracted by New York Yankees and debuted for Miami Marlins?", "Ground Truth": ["giancarlo stanton"], "Predictions": ["jerry hairston jr."]}
-{"id": "ques-TQ150-71", "question": "Which American wrestler signed to WWE is known as Nia Jax?", "Ground Truth": ["savelina fanene"], "Predictions": ["austin aries"]}
-{"id": "ques-TQ150-72", "question": "Who is married to Michael Cohen and was born in Ukraine?", "Ground Truth": ["laura cohen"], "Predictions": ["wikipedia vital articles"]}
-{"id": "ques-TQ150-73", "question": "Which Ghanaian basketball player joined Austin Spurs and previously played for Connecticut Huskies?", "Ground Truth": ["amida brimah"], "Predictions": ["larry smith"]}
-{"id": "ques-TQ150-74", "question": "Which album is created by Nicki Minaj and is named after a Street Fighter character?", "Ground Truth": ["chun-li"], "Predictions": ["bet award for viewer's choice", "april 12, 2018 nicki minaj interview on beats 1", "2015-01-01t00 00 00z", "drake", "only", "freaks", "chris brown the abuser", "bottoms up", "lil wayne", "bet awards 2015", "lil freak"]}
-{"id": "ques-TQ150-75", "question": "Which 2018 song is performed by Kanye West and debuted on Power 106?", "Ground Truth": ["welcome to heartbreak", "ye vs. the people"], "Predictions": ["runaway", "heartless"]}
-{"id": "ques-TQ150-76", "question": "Which racing driver was married to Ashley Judd and has won Indianapolis 500?", "Ground Truth": ["dario franchitti"], "Predictions": ["q30", "dario franchitti"]}
-{"id": "ques-TQ150-77", "question": "What role did Robin Williams play in Jumanji?", "Ground Truth": ["alan parrish"], "Predictions": ["academy award for best actor"]}
-{"id": "ques-TQ150-78", "question": "Which American actress dated Colin Jost and starred in Lucy?", "Ground Truth": ["scarlett johansson"], "Predictions": ["danny pino"]}
-{"id": "ques-TQ150-79", "question": "Which musical artist released Aaliyah Keef and Cuban Link?", "Ground Truth": ["cuban doll"], "Predictions": ["atlantic records"]}
-{"id": "ques-TQ150-80", "question": "Who is married to Jason Day and was born in Lucas?", "Ground Truth": ["ellie day"], "Predictions": ["q30"]}
-{"id": "ques-TQ150-81", "question": "Which American rock band was founded by Ric Ocasek and Benjamin Orr?", "Ground Truth": ["the cars"], "Predictions": ["the cars"]}
-{"id": "ques-TQ150-82", "question": "Which American actress played Mike Baxter on Last Man Standing?", "Ground Truth": ["molly ephraim"], "Predictions": ["paulys realenzyklop\\u00e4die der klassischen altertumswissenschaft"]}
-{"id": "ques-TQ150-83", "question": "Which 2018 album is performed and produced by Charlie Puth?", "Ground Truth": ["voicenotes"], "Predictions": ["attention"]}
-{"id": "ques-TQ150-84", "question": "Which American actress plays the role of Chloe Decker in Lucifer?", "Ground Truth": ["lauren german"], "Predictions": ["brockhaus and efron encyclopedic dictionary"]}
-{"id": "ques-TQ150-85", "question": "Which American professional golfer is married to Taylor Dowd Simpson and played for Wake Forest University?", "Ground Truth": ["webb simpson"], "Predictions": ["arnold palmer", "golfer"]}
-{"id": "ques-TQ150-86", "question": "What role did Kiefer Sutherland play on Designated Survivor?", "Ground Truth": ["president tom kirkman"], "Predictions": ["the three musketeers", "athos"]}
-{"id": "ques-TQ150-87", "question": "Which Canadian singer is dating Bella Hadid and released House of Balloons?", "Ground Truth": ["abel makkonen tesfaye", "the weeknd"], "Predictions": ["the weeknd"]}
-{"id": "ques-TQ150-88", "question": "When did Breaking In release in the United States of America?", "Ground Truth": ["may 11 2018"], "Predictions": []}
-{"id": "ques-TQ150-89", "question": "What role did Stephanie Beatriz play on Brooklyn Nine-Nine?", "Ground Truth": ["detective rosa diaz"], "Predictions": ["rosa diaz"]}
-{"id": "ques-TQ150-90", "question": "Which American television news personality co-hosts The Five and is dating Donald Trump Jr.?", "Ground Truth": ["kimberly guilfoyle"], "Predictions": ["q30"]}
-{"id": "ques-TQ150-91", "question": "Who married Matt Patricia and studied at Bryant University?", "Ground Truth": ["raina patricia"], "Predictions": ["q30"]}
-{"id": "ques-TQ150-92", "question": "Which American singer released Royalty and starred in Think Like a Man?", "Ground Truth": ["chris brown"], "Predictions": ["english", "q30", "armenian soviet encyclopedia"]}
-{"id": "ques-TQ150-93", "question": "Which actor starred in Sons of Anarchy and authored Becoming A Son?", "Ground Truth": ["david labrava"], "Predictions": ["ron perlman", "mark boone junior"]}
-{"id": "ques-TQ150-94", "question": "Which 2018 studio album created by Taylor Swift features Ed Sheeran?", "Ground Truth": ["reputation"], "Predictions": ["young guns"]}
-{"id": "ques-TQ150-95", "question": "Which daughter of John McCain works in the music industry?", "Ground Truth": ["sid mccain", "sidney mccain"], "Predictions": ["bridget mccain"]}
-{"id": "ques-TQ150-96", "question": "Which album performed by Eminem was produced by Rick Rubin?", "Ground Truth": ["revival", "berzerk"], "Predictions": ["tim & bob", "elevator", "mockingbird", "category albums produced by rick rubin", "category albums produced by tim & bob", "category song recordings produced by rick rubin", "song", "category eminem songs", "californication", "category albums produced by eminem", "danzig"]}
-{"id": "ques-TQ150-97", "question": "When will PUBG be released on Microsoft Xbox One?", "Ground Truth": ["december 12 2017"], "Predictions": ["2014-05-27t00 00 00z", "watch dogs"]}
-{"id": "ques-TQ150-98", "question": "Which basketball team did Tyronn Lue coach in the 2016-17 NBA season?", "Ground Truth": ["cleveland cavaliers"], "Predictions": ["atlanta hawks", "boston celtics"]}
-{"id": "ques-TQ150-99", "question": "From which professional basketball team did Kendrick Perkins transfer to Cleveland Cavaliers?", "Ground Truth": ["new orleans pelicans"], "Predictions": ["basketball team", "boston celtics"]}
-{"id": "ques-TQ150-100", "question": "Which 2017 studio album was performed by Meek Mill and released by Maybach Music Group?", "Ground Truth": ["wins & losses"], "Predictions": ["dc4"]}
-{"id": "ques-TQ150-101", "question": "Which premiere event did Chris Evans invite Keaton Jones to?", "Ground Truth": ["avengers: infinity war premiere"], "Predictions": ["2014-01-01t00 00 00z"]}
-{"id": "ques-TQ150-102", "question": "Which magazine interviewed Ryan Lizza that Olivia Nuzzi is an employee of?", "Ground Truth": ["the new yorker"], "Predictions": ["the new yorker"]}
-{"id": "ques-TQ150-103", "question": "Which Australian singer is married to Josh Homme and lives in Los Angeles?", "Ground Truth": ["brody dalle"], "Predictions": ["singer", "brody dalle"]}
-{"id": "ques-TQ150-104", "question": "Which American football player owned Carolina Panthers and once played for Baltimore Colts?", "Ground Truth": ["jerry richardson"], "Predictions": ["drew stanton", "reggie smith", "patrick mahomes", "american football player"]}
-{"id": "ques-TQ150-105", "question": "Which US comedian dated Scarlett Johansson and worked for Saturday Night Live?", "Ground Truth": ["colin jost"], "Predictions": ["q30"]}
-{"id": "ques-TQ150-106", "question": "Which 2017 drama is written by Melora Walters and stars Mira Sorvino?", "Ground Truth": ["waterlily jaguar"], "Predictions": ["don cheadle"]}
-{"id": "ques-TQ150-107", "question": "Which pop song performed by Hailee Steinfeld also features Alesso?", "Ground Truth": ["let me go"], "Predictions": ["single"]}
-{"id": "ques-TQ150-108", "question": "Which American actor voices Bones in the animation movie Ferdinand?", "Ground Truth": ["anthony anderson"], "Predictions": ["david tennant"]}
-{"id": "ques-TQ150-109", "question": "Which university in Utah did Matthew Petersen graduate from?", "Ground Truth": ["university of brigham young"], "Predictions": ["john peterson"]}
-{"id": "ques-TQ150-110", "question": "Which TV show did Mike Francesa host on the radio station WFAN?", "Ground Truth": ["mike and the mad dog"], "Predictions": ["q30"]}
-{"id": "ques-TQ150-111", "question": "Which TV actress was engaged to John Stamos and had earlier played in the Vampire Diaries?", "Ground Truth": ["caitlin mchugh"], "Predictions": ["q30"]}
-{"id": "ques-TQ150-112", "question": "Which film directed by Christopher Nolan was nominated for the 2018 Golden Globe Awards?", "Ground Truth": ["dunkirk"], "Predictions": ["academy award for best director"]}
-{"id": "ques-TQ150-113", "question": "Which Indian cricketer did Anushka Sharma marry in Italy?", "Ground Truth": ["virat kohli"], "Predictions": ["1969-08-24t00 00 00z", "102", "mohammad hidayatullah", "1969-07-20t00 00 00z", "1967-05-13t00 00 00z", "1969-05-03t00 00 00z", "zakir hussain", "independent politician", "acting", "ram nath kovind", "death in office"]}
-{"id": "ques-TQ150-114", "question": "In which robot movie did Hugh Jackman play the role of Charlie Kenton?", "Ground Truth": ["real steel"], "Predictions": ["wolverine"]}
-{"id": "ques-TQ150-115", "question": "Which actor in Psych: The Movie also played in The Karate Kid?", "Ground Truth": ["ralph macchio"], "Predictions": ["elisabeth shue"]}
-{"id": "ques-TQ150-116", "question": "Which American football coach coordinated New England Patriots but may join Detroit Lions in 2018?", "Ground Truth": ["matt patricia"], "Predictions": ["bill belichick"]}
-{"id": "ques-TQ150-117", "question": "Which Swiss footballer transferred to Borussia Dortmund but was a target for FC Liverpool?", "Ground Truth": ["manuel akanji"], "Predictions": ["daniel crowley", "jadon sancho", "+31", "+90", "mohamed elneny", "fc basel", "steffen karl", "2017-07-17t00 00 00z", "willem ii", "2017-08-31t00 00 00z"]}
-{"id": "ques-TQ150-118", "question": "In which castle did Rory McIlroy marry Erica Stoll?", "Ground Truth": ["ashford castle"], "Predictions": ["catherine, duchess of cambridge", "prince william, duke of cambridge"]}
-{"id": "ques-TQ150-119", "question": "Which American singer is an uncle of Kevin Love and co-founded The Beach Boys?", "Ground Truth": ["mike", "michael edward love"], "Predictions": ["carnie wilson", "dennis wilson"]}
-{"id": "ques-TQ150-120", "question": "Which detective drama film starred Jim Carrey and was directed by Alexandros Avranas?", "Ground Truth": ["dark crimes"], "Predictions": ["dark crimes"]}
-{"id": "ques-TQ150-121", "question": "Which 2017 song performed by Arcade Fire samples the The Coffee Cola Song?", "Ground Truth": ["everything now"], "Predictions": ["wake up"]}
-{"id": "ques-TQ150-122", "question": "Which American football player is a brother of Zay Jones and plays for Minnesota Vikings?", "Ground Truth": ["cayleb jones"], "Predictions": ["cris carter", "wide receiver"]}
-{"id": "ques-TQ150-123", "question": "Which American football team based in Florida signed Allen Hurns?", "Ground Truth": ["jacksonville jaguars"], "Predictions": ["allen trammel"]}
-{"id": "ques-TQ150-124", "question": "Which baseball team located in Lancaster does Danry Vasquez play for?", "Ground Truth": ["lancaster barnstormers"], "Predictions": ["stumpf field", "atlantic league of professional baseball"]}
-{"id": "ques-TQ150-125", "question": "Which role does Jeffrey Dean Morgan play on The Walking Dead Season 8?", "Ground Truth": ["negan"], "Predictions": ["negan"]}
-{"id": "ques-TQ150-126", "question": "Which American journalist dated Finn Balor and is signed with WWE?", "Ground Truth": ["cathy kelley"], "Predictions": ["q30"]}
-{"id": "ques-TQ150-127", "question": "Which American wrestler signed to WWE is known as The Undertaker?", "Ground Truth": ["mark william calaway"], "Predictions": ["shane shamrock"]}
-{"id": "ques-TQ150-128", "question": "Which MIT professor leads the Mediated Matter research group and is dating Brad Pitt?", "Ground Truth": ["neri oxman"], "Predictions": ["dylan h arias", "thomas massie", "jess f. adkins", "2007-05-01t00 00 00z", "doctor of philosophy", "jian cui", "master of science", "edith clarke", "1919-01-01t00 00 00z", "2013-05-01t00 00 00z"]}
-{"id": "ques-TQ150-129", "question": "Who is married to Seth Meyers and was educated at Southwestern University?", "Ground Truth": ["alexi ashe"], "Predictions": ["q30"]}
-{"id": "ques-TQ150-130", "question": "Which actor stars in The Meg and The Transporter trilogy?", "Ground Truth": ["jason statham"], "Predictions": ["fictional human"]}
-{"id": "ques-TQ150-131", "question": "Which actress is credited as Nicole Leach and appeared on The Bill Cosby Show?", "Ground Truth": ["nicolle rochelle"], "Predictions": ["category wikipedia categories named after actors"]}
-{"id": "ques-TQ150-132", "question": "Which song was recorded by Lindsey Buckingham and written for National Lampoon's Vacation?", "Ground Truth": ["holiday road", "dancin across the usa"], "Predictions": ["q30", "tango in the night"]}
-{"id": "ques-TQ150-133", "question": "Which American rapper is dating Ariana Grande and launched REMember Music?", "Ground Truth": ["the velvet revival", "mac miller", "malcolm james mccormick", "delusional thomas", "larry lovestein", "larry fisherman"], "Predictions": ["bachelor's degree"]}
-{"id": "ques-TQ150-134", "question": "Which 2016 movie featuring Blake Lively also stars Brett Cullen?", "Ground Truth": ["the shallows"], "Predictions": ["the replacements"]}
-{"id": "ques-TQ150-135", "question": "When is Ant-Man and the Wasp releasing in Germany?", "Ground Truth": ["26 july 2018"], "Predictions": ["paul rudd"]}
-{"id": "ques-TQ150-136", "question": "Which American actress starred in NCIS and co-owns Donna Bell's Bake Shop?", "Ground Truth": ["pauley perrette"], "Predictions": ["julie benz"]}
-{"id": "ques-TQ150-137", "question": "Who produced Marco Polo and Mammoth?", "Ground Truth": ["alexandra canosa"], "Predictions": ["brockhaus and efron encyclopedic dictionary"]}
-{"id": "ques-TQ150-138", "question": "Which American rock band features David Bryan and Richie Sambora?", "Ground Truth": ["bon jovi"], "Predictions": ["mercury records", "aftermath of the lowdown"]}
-{"id": "ques-TQ150-139", "question": "Which hip hop trio contains Offset and Quavo?", "Ground Truth": ["migos"], "Predictions": ["atlantic records"]}
-{"id": "ques-TQ150-140", "question": "Which American rapper is known as Lil Yachty and released Lil Boat?", "Ground Truth": ["miles parks mccollum"], "Predictions": ["teenage emotions", "oprah's bank account", "mableton"]}
-{"id": "ques-TQ150-141", "question": "Which American basketball coach coached Toronto Raptors and married Brenda Casey?", "Ground Truth": ["dwane casey"], "Predictions": ["profession", "basketball player", "roy rogers"]}
-{"id": "ques-TQ150-142", "question": "Who authored The Kissing Booth and Rolling Dice?", "Ground Truth": ["beth reekles"], "Predictions": ["mick jagger"]}
-{"id": "ques-TQ150-143", "question": "Which American rapper starred in The American Ruling Class and Love Beats Rhymes?", "Ground Truth": ["azealia banks"], "Predictions": ["music style"]}
-{"id": "ques-TQ150-144", "question": "Which American basketball player dated Kendall Jenner and Brynn Cameron?", "Ground Truth": ["blake griffin"], "Predictions": ["trish stratus"]}
-{"id": "ques-TQ150-145", "question": "Which 2018 science fantasy film is directed by Ava DuVernay and written by Jennifer Lee?", "Ground Truth": ["a wrinkle in time"], "Predictions": []}
-{"id": "ques-TQ150-146", "question": "Which 2018 studio album is performed by Playboi Carti and features Nicki Minaj?", "Ground Truth": ["die lit"], "Predictions": ["april 12, 2018 nicki minaj interview on beats 1"]}
-{"id": "ques-TQ150-147", "question": "Which 2018 studio album was released by the Arctic Monkeys through the Domino Recording Company?", "Ground Truth": ["tranquility base hotel & casino"], "Predictions": ["bubblegum"]}
-{"id": "ques-TQ150-148", "question": "Which 2018 American romantic comedy is directed by Bill Holderman and stars Jane Fonda?", "Ground Truth": ["book club"], "Predictions": ["english", "2020"]}
-{"id": "ques-TQ150-149", "question": "Who plays Maddie Miles on Life of the Party?", "Ground Truth": ["molly gordon"], "Predictions": ["bachelor's degree"]}
-{"id": "ques-TQ150-150", "question": "Which actor plays Jughead Jones on Riverdale?", "Ground Truth": ["cole sprouse"], "Predictions": ["cole sprouse"]}
+{"id": "ques-TQ150-1", "question": "In which event did Taylor Swift and Joe Alwyn appear together?", "Predictions": ["film actor", "2019-01-01t00 00 00z"]}
+{"id": "ques-TQ150-2", "question": "Which photographer did Jana Kramer play in Christmas in Mississipi?", "Predictions": ["photography"]}
+{"id": "ques-TQ150-3", "question": "Who played for Barcelona and managed Real Madrid?", "Predictions": ["francisco mateo"]}
+{"id": "ques-TQ150-4", "question": "Which singer was affiliated to the band Shinee and died in Seoul?", "Predictions": ["park tae-joon", "lee ae-jung"]}
+{"id": "ques-TQ150-5", "question": "Which daughter of Craig Sager married Kutter Brandt?", "Predictions": ["q30"]}
+{"id": "ques-TQ150-6", "question": "Who is married to Morgan Spurlock and is a vice-president at HBO?", "Predictions": ["businessperson", "vladimir gusinsky", "profession", "film director", "alex jamieson"]}
+{"id": "ques-TQ150-7", "question": "Which Hanukkah song was written and performed by Adam Sandler?", "Predictions": ["big daddy"]}
+{"id": "ques-TQ150-8", "question": "Who dated Carson Wentz and lived in North Dakota?", "Predictions": ["mark selland"]}
+{"id": "ques-TQ150-9", "question": "What is the name of the child of Travis Scott and Kylie Jenner?", "Predictions": ["stormi webster"]}
+{"id": "ques-TQ150-10", "question": "Which 2018 rap song did Nicki Minaj and Cardi B sing together?", "Predictions": ["singer"]}
+{"id": "ques-TQ150-11", "question": "Which model was married to Tiger Woods and was born in Sweden?", "Predictions": ["elin nordegren"]}
+{"id": "ques-TQ150-12", "question": "Which aspring model split with Chloe Moretz and is dating Lexi Wood?", "Predictions": ["kick-ass 2", "the addams family"]}
+{"id": "ques-TQ150-13", "question": "In which movie did Omar Sharif play the role of Sherif Ali?", "Predictions": ["genghis khan", "academy award for best supporting actor"]}
+{"id": "ques-TQ150-14", "question": "Who acted in Blue Bloods and graduated from Yale University?", "Predictions": ["spanish", "dorothea salo", "indiana university bloomington"]}
+{"id": "ques-TQ150-15", "question": "Which Scottish singer founded Frightened Rabbit and studied at the Glasgow School of Art?", "Predictions": ["united kingdom"]}
+{"id": "ques-TQ150-16", "question": "Which American music band performed I Can Only Imagine and released the album Spoken For?", "Predictions": ["emi records", "record label", "curb records"]}
+{"id": "ques-TQ150-17", "question": "Which American singer released Gotham City and was married to Aaliyah?", "Predictions": ["damon dash"]}
+{"id": "ques-TQ150-18", "question": "When is the release date of Jurassic World 2 in the USA?", "Predictions": ["jurassic park iii", "universal pictures"]}
+{"id": "ques-TQ150-19", "question": "Who was a boyfriend of Lindsey Vonn and played for South Africa?", "Predictions": ["divorce", "thomas vonn", "2007-09-29t00 00 00z", "2013-01-09t00 00 00z", "deer valley"]}
+{"id": "ques-TQ150-20", "question": "Which state in the United States of America is Tina Smith a governor of?", "Predictions": ["washington", "united states"]}
+{"id": "ques-TQ150-21", "question": "Which 2017 song performed by Luis Fonsi featured Daddy Yankee?", "Predictions": ["despacito"]}
+{"id": "ques-TQ150-22", "question": "Who is married to John Mulaney and owns Silk Parlor?", "Predictions": ["annamarie tendler"]}
+{"id": "ques-TQ150-23", "question": "Which songs did Blake Shelton and Gwen Stefani perform together?", "Predictions": ["lonely tonight", "luxurious"]}
+{"id": "ques-TQ150-24", "question": "Who was a daughter of Aaron Hernandez and Shayanna Jenkins?", "Predictions": ["bristol central high school"]}
+{"id": "ques-TQ150-25", "question": "Which American professional baseball team does Yadier Molina play for in Major League Baseball?", "Predictions": ["q30"]}
+{"id": "ques-TQ150-26", "question": "Who is married to John Oliver and served in the Iraq War?", "Predictions": ["kate norley", "q30", "peter jones"]}
+{"id": "ques-TQ150-27", "question": "Which American attorney serves as the United States Secretary of Homeland Security and graduated from University of Virginia?", "Predictions": ["thomas jefferson", "robert r. merhige, jr.", "mark levin", "juris doctor", "temple university beasley school of law", "john c. stennis"]}
+{"id": "ques-TQ150-28", "question": "Which British Indian actor played in Big Bang Theory and Sanjay and Craig?", "Predictions": ["charlie sheen"]}
+{"id": "ques-TQ150-29", "question": "On the sets of which movie did Dwayne Johnson meet his girlfriend Lauren Hashian?", "Predictions": ["luke hobbs", "category films produced by dwayne johnson", "race to witch mountain", "furious 7", "fast five", "mitch buchannon", "jack bruno", "mathayus", "baywatch", "the scorpion king"]}
+{"id": "ques-TQ150-30", "question": "When did Paul Ryan retire from the post of Speaker of the United States House of Representatives?", "Predictions": ["john boehner", "2015-10-29t00 00 00z"]}
+{"id": "ques-TQ150-31", "question": "Which high school located in Texas did Baker Mayfield play for?", "Predictions": ["lake travis high school", "q30"]}
+{"id": "ques-TQ150-32", "question": "Which movie starring Dave Franco was directed by his brother James Franco?", "Predictions": ["the rental", "fright night"]}
+{"id": "ques-TQ150-33", "question": "What role did Dick Van Dyke play in Mary Poppins?", "Predictions": ["caractacus pott"]}
+{"id": "ques-TQ150-34", "question": "Where did Sylvie Vartan meet her future husband Johnny Hallyday?", "Predictions": ["paris"]}
+{"id": "ques-TQ150-35", "question": "Which reality show did Matt Damon and Ben Affleck star in?", "Predictions": ["volpi cup for best actor", "hollywoodland", "deadpool 2"]}
+{"id": "ques-TQ150-36", "question": "When did Kendrick Lamar appear on the radio show hosted by Howard Stern?", "Predictions": ["the howard stern show", "q30"]}
+{"id": "ques-TQ150-37", "question": "Which actor plays Neil on Walking Dead?", "Predictions": ["tovah feldshuh", "andrew j. west", "josh mcdermitt", "gareth", "dale horvath", "andrew lincoln", "jeffrey demunn", "deanna monroe", "rick grimes", "eugene porter"]}
+{"id": "ques-TQ150-38", "question": "Which city in Poland was Max Born born?", "Predictions": ["jewish people", "wroc\\u0142aw"]}
+{"id": "ques-TQ150-39", "question": "Who was married to Omarosa and works as a pastor?", "Predictions": ["vincenzo maria sarnelli", "france beydon", "1892-01-01t00 00 00z", "henri laget", "octave pampagnin", "christian religious occupation", "laurent gagnebin", "c\\u00e9sar maurin", "pierre-jean ruff", "albert atger", "paroisse r\\u00e9form\\u00e9e de bernis", "1878-01-01t00 00 00z", "gilles castelnau"]}
+{"id": "ques-TQ150-40", "question": "Which song composed by Nina Simone is also a traditional American folk song?", "Predictions": ["writ in water", "sirens"]}
+{"id": "ques-TQ150-41", "question": "Which thriller movie stars Christopher Plummer and is directed by Ridley Scott?", "Predictions": ["film"]}
+{"id": "ques-TQ150-42", "question": "Where in Toronto did Honey Sherman die?", "Predictions": ["q60", "autobiographer"]}
+{"id": "ques-TQ150-43", "question": "Which 2016 thriller stars Jodie Foster and Julia Roberts?", "Predictions": ["academy award for best actress"]}
+{"id": "ques-TQ150-44", "question": "What role does Daisy Ridley play in The Last Jedi?", "Predictions": ["carrie fisher"]}
+{"id": "ques-TQ150-45", "question": "Which team was Carmelo Anthony traded from, when joining New York Knights?", "Predictions": ["new york knicks"]}
+{"id": "ques-TQ150-46", "question": "Which college did Joel Embiid play for in Kansas?", "Predictions": ["university of kansas", "kip niven"]}
+{"id": "ques-TQ150-47", "question": "Which children's book authored by R. C. Sproul was illustrated by Richard Lawnes?", "Predictions": ["philip, lord de cognac"]}
+{"id": "ques-TQ150-48", "question": "In which city in China did Wu Yongning fall to his death?", "Predictions": ["yuncheng county"]}
+{"id": "ques-TQ150-49", "question": "Which son of Queen Elizabeth II is married to the Countess of Wessex?", "Predictions": ["house of windsor"]}
+{"id": "ques-TQ150-50", "question": "Which motivational speaker dated Jodi Arias and was murdered by her?", "Predictions": ["voice actor"]}
+{"id": "ques-TQ150-51", "question": "Which basketball player is engaged to Ryan Shazier and graduated from Texas State University?", "Predictions": ["pittsburgh steelers", "q30", "rita henley jensen", "ohio state university"]}
+{"id": "ques-TQ150-52", "question": "Which financier dated Venus Williams and accompanied her to the wedding of Serena Williams?", "Predictions": ["alexis ohanian"]}
+{"id": "ques-TQ150-53", "question": "Which aerobic instructor married Tom Crean and is a brother of John Harbaugh?", "Predictions": ["jim harbaugh"]}
+{"id": "ques-TQ150-54", "question": "Which role did Alicia Vikander play in Tomb Raider 2018?", "Predictions": ["ex machina", "ava"]}
+{"id": "ques-TQ150-55", "question": "What role does Jayne Atkinson play on The Walking Dead?", "Predictions": ["alanna masterson", "tara chambler", "q30"]}
+{"id": "ques-TQ150-56", "question": "Which actor dated Pete Davidson and studied at Emerson College?", "Predictions": ["q30", "tar\\u014d itsumi"]}
+{"id": "ques-TQ150-57", "question": "For which state in the USA is Cynthia Nixon running for governor in 2018?", "Predictions": ["washington"]}
+{"id": "ques-TQ150-58", "question": "When is the release date of Sea of Thieves in Germany?", "Predictions": ["united kingdom", "2018-03-20t00 00 00z"]}
+{"id": "ques-TQ150-59", "question": "Which American singer-songwriter composed DJT and was lead artist in Wrecking Ball?", "Predictions": ["gabriel zanetti", "bruce springsteen", "carol kaye", "los angeles", "occupation"]}
+{"id": "ques-TQ150-60", "question": "Which 2017 song featured Selena Gomez and Marshmello?", "Predictions": ["q30"]}
+{"id": "ques-TQ150-61", "question": "Which children's book was authored by Karen Pence and Charlotte Pence?", "Predictions": ["+3"]}
+{"id": "ques-TQ150-62", "question": "Which 2016 studio album was created by Shawn Mendes and released by Island Records?", "Predictions": ["bumpers"]}
+{"id": "ques-TQ150-63", "question": "Which singer was a member of Fifth Harmony and performed Crying in the Club?", "Predictions": ["stevie wonder", "usa for africa", "don mclean", "single"]}
+{"id": "ques-TQ150-64", "question": "In which city in Mexico did Guillermo Haro live and die?", "Predictions": ["mexico city", "los angeles", "city with millions of inhabitants"]}
+{"id": "ques-TQ150-65", "question": "Which author was a son of Fred Rogers and wrote Learning Power?", "Predictions": ["rollins college", "theologian", "screenwriter", "educator", "songwriter", "university of pittsburgh", "television presenter", "thiel college", "minister", "2003-02-27t00 00 00z"]}
+{"id": "ques-TQ150-66", "question": "Which actor plays Spencer Gilpin in Jumanji Welcome to the Jungle?", "Predictions": ["james handy"]}
+{"id": "ques-TQ150-67", "question": "Who studied at Marymount Manhattan College and married Donald Trump Jr.?", "Predictions": ["vanessa trump"]}
+{"id": "ques-TQ150-68", "question": "Which Japanese baseball player was contracted for Los Angeles Angels who also played for Hokkaido Nippon-Ham Fighters?", "Predictions": ["tsutomu ikeda"]}
+{"id": "ques-TQ150-69", "question": "Which professional baseball player played for St. Louis Cardinals and is nicknamed Yadi?", "Predictions": ["hank gornicki"]}
+{"id": "ques-TQ150-70", "question": "Which American professional baseball player was contracted by New York Yankees and debuted for Miami Marlins?", "Predictions": ["jerry hairston jr."]}
+{"id": "ques-TQ150-71", "question": "Which American wrestler signed to WWE is known as Nia Jax?", "Predictions": ["austin aries"]}
+{"id": "ques-TQ150-72", "question": "Who is married to Michael Cohen and was born in Ukraine?", "Predictions": ["wikipedia vital articles"]}
+{"id": "ques-TQ150-73", "question": "Which Ghanaian basketball player joined Austin Spurs and previously played for Connecticut Huskies?", "Predictions": ["larry smith"]}
+{"id": "ques-TQ150-74", "question": "Which album is created by Nicki Minaj and is named after a Street Fighter character?", "Predictions": ["bet award for viewer's choice", "april 12, 2018 nicki minaj interview on beats 1", "2015-01-01t00 00 00z", "drake", "only", "freaks", "chris brown the abuser", "bottoms up", "lil wayne", "bet awards 2015", "lil freak"]}
+{"id": "ques-TQ150-75", "question": "Which 2018 song is performed by Kanye West and debuted on Power 106?", "Predictions": ["runaway", "heartless"]}
+{"id": "ques-TQ150-76", "question": "Which racing driver was married to Ashley Judd and has won Indianapolis 500?", "Predictions": ["q30", "dario franchitti"]}
+{"id": "ques-TQ150-77", "question": "What role did Robin Williams play in Jumanji?", "Predictions": ["academy award for best actor"]}
+{"id": "ques-TQ150-78", "question": "Which American actress dated Colin Jost and starred in Lucy?", "Predictions": ["danny pino"]}
+{"id": "ques-TQ150-79", "question": "Which musical artist released Aaliyah Keef and Cuban Link?", "Predictions": ["atlantic records"]}
+{"id": "ques-TQ150-80", "question": "Who is married to Jason Day and was born in Lucas?", "Predictions": ["q30"]}
+{"id": "ques-TQ150-81", "question": "Which American rock band was founded by Ric Ocasek and Benjamin Orr?", "Predictions": ["the cars"]}
+{"id": "ques-TQ150-82", "question": "Which American actress played Mike Baxter on Last Man Standing?", "Predictions": ["paulys realenzyklop\\u00e4die der klassischen altertumswissenschaft"]}
+{"id": "ques-TQ150-83", "question": "Which 2018 album is performed and produced by Charlie Puth?", "Predictions": ["attention"]}
+{"id": "ques-TQ150-84", "question": "Which American actress plays the role of Chloe Decker in Lucifer?", "Predictions": ["brockhaus and efron encyclopedic dictionary"]}
+{"id": "ques-TQ150-85", "question": "Which American professional golfer is married to Taylor Dowd Simpson and played for Wake Forest University?", "Predictions": ["arnold palmer", "golfer"]}
+{"id": "ques-TQ150-86", "question": "What role did Kiefer Sutherland play on Designated Survivor?", "Predictions": ["the three musketeers", "athos"]}
+{"id": "ques-TQ150-87", "question": "Which Canadian singer is dating Bella Hadid and released House of Balloons?", "Predictions": ["the weeknd"]}
+{"id": "ques-TQ150-88", "question": "When did Breaking In release in the United States of America?", "Predictions": []}
+{"id": "ques-TQ150-89", "question": "What role did Stephanie Beatriz play on Brooklyn Nine-Nine?", "Predictions": ["rosa diaz"]}
+{"id": "ques-TQ150-90", "question": "Which American television news personality co-hosts The Five and is dating Donald Trump Jr.?", "Predictions": ["q30"]}
+{"id": "ques-TQ150-91", "question": "Who married Matt Patricia and studied at Bryant University?", "Predictions": ["q30"]}
+{"id": "ques-TQ150-92", "question": "Which American singer released Royalty and starred in Think Like a Man?", "Predictions": ["english", "q30", "armenian soviet encyclopedia"]}
+{"id": "ques-TQ150-93", "question": "Which actor starred in Sons of Anarchy and authored Becoming A Son?", "Predictions": ["ron perlman", "mark boone junior"]}
+{"id": "ques-TQ150-94", "question": "Which 2018 studio album created by Taylor Swift features Ed Sheeran?", "Predictions": ["young guns"]}
+{"id": "ques-TQ150-95", "question": "Which daughter of John McCain works in the music industry?", "Predictions": ["bridget mccain"]}
+{"id": "ques-TQ150-96", "question": "Which album performed by Eminem was produced by Rick Rubin?", "Predictions": ["tim & bob", "elevator", "mockingbird", "category albums produced by rick rubin", "category albums produced by tim & bob", "category song recordings produced by rick rubin", "song", "category eminem songs", "californication", "category albums produced by eminem", "danzig"]}
+{"id": "ques-TQ150-97", "question": "When will PUBG be released on Microsoft Xbox One?", "Predictions": ["2014-05-27t00 00 00z", "watch dogs"]}
+{"id": "ques-TQ150-98", "question": "Which basketball team did Tyronn Lue coach in the 2016-17 NBA season?", "Predictions": ["atlanta hawks", "boston celtics"]}
+{"id": "ques-TQ150-99", "question": "From which professional basketball team did Kendrick Perkins transfer to Cleveland Cavaliers?", "Predictions": ["basketball team", "boston celtics"]}
+{"id": "ques-TQ150-100", "question": "Which 2017 studio album was performed by Meek Mill and released by Maybach Music Group?", "Predictions": ["dc4"]}
+{"id": "ques-TQ150-101", "question": "Which premiere event did Chris Evans invite Keaton Jones to?", "Predictions": ["2014-01-01t00 00 00z"]}
+{"id": "ques-TQ150-102", "question": "Which magazine interviewed Ryan Lizza that Olivia Nuzzi is an employee of?", "Predictions": ["the new yorker"]}
+{"id": "ques-TQ150-103", "question": "Which Australian singer is married to Josh Homme and lives in Los Angeles?", "Predictions": ["singer", "brody dalle"]}
+{"id": "ques-TQ150-104", "question": "Which American football player owned Carolina Panthers and once played for Baltimore Colts?", "Predictions": ["drew stanton", "reggie smith", "patrick mahomes", "american football player"]}
+{"id": "ques-TQ150-105", "question": "Which US comedian dated Scarlett Johansson and worked for Saturday Night Live?", "Predictions": ["q30"]}
+{"id": "ques-TQ150-106", "question": "Which 2017 drama is written by Melora Walters and stars Mira Sorvino?", "Predictions": ["don cheadle"]}
+{"id": "ques-TQ150-107", "question": "Which pop song performed by Hailee Steinfeld also features Alesso?", "Predictions": ["single"]}
+{"id": "ques-TQ150-108", "question": "Which American actor voices Bones in the animation movie Ferdinand?", "Predictions": ["david tennant"]}
+{"id": "ques-TQ150-109", "question": "Which university in Utah did Matthew Petersen graduate from?", "Predictions": ["john peterson"]}
+{"id": "ques-TQ150-110", "question": "Which TV show did Mike Francesa host on the radio station WFAN?", "Predictions": ["q30"]}
+{"id": "ques-TQ150-111", "question": "Which TV actress was engaged to John Stamos and had earlier played in the Vampire Diaries?", "Predictions": ["q30"]}
+{"id": "ques-TQ150-112", "question": "Which film directed by Christopher Nolan was nominated for the 2018 Golden Globe Awards?", "Predictions": ["academy award for best director"]}
+{"id": "ques-TQ150-113", "question": "Which Indian cricketer did Anushka Sharma marry in Italy?", "Predictions": ["1969-08-24t00 00 00z", "102", "mohammad hidayatullah", "1969-07-20t00 00 00z", "1967-05-13t00 00 00z", "1969-05-03t00 00 00z", "zakir hussain", "independent politician", "acting", "ram nath kovind", "death in office"]}
+{"id": "ques-TQ150-114", "question": "In which robot movie did Hugh Jackman play the role of Charlie Kenton?", "Predictions": ["wolverine"]}
+{"id": "ques-TQ150-115", "question": "Which actor in Psych: The Movie also played in The Karate Kid?", "Predictions": ["elisabeth shue"]}
+{"id": "ques-TQ150-116", "question": "Which American football coach coordinated New England Patriots but may join Detroit Lions in 2018?", "Predictions": ["bill belichick"]}
+{"id": "ques-TQ150-117", "question": "Which Swiss footballer transferred to Borussia Dortmund but was a target for FC Liverpool?", "Predictions": ["daniel crowley", "jadon sancho", "+31", "+90", "mohamed elneny", "fc basel", "steffen karl", "2017-07-17t00 00 00z", "willem ii", "2017-08-31t00 00 00z"]}
+{"id": "ques-TQ150-118", "question": "In which castle did Rory McIlroy marry Erica Stoll?", "Predictions": ["catherine, duchess of cambridge", "prince william, duke of cambridge"]}
+{"id": "ques-TQ150-119", "question": "Which American singer is an uncle of Kevin Love and co-founded The Beach Boys?", "Predictions": ["carnie wilson", "dennis wilson"]}
+{"id": "ques-TQ150-120", "question": "Which detective drama film starred Jim Carrey and was directed by Alexandros Avranas?", "Predictions": ["dark crimes"]}
+{"id": "ques-TQ150-121", "question": "Which 2017 song performed by Arcade Fire samples the The Coffee Cola Song?", "Predictions": ["wake up"]}
+{"id": "ques-TQ150-122", "question": "Which American football player is a brother of Zay Jones and plays for Minnesota Vikings?", "Predictions": ["cris carter", "wide receiver"]}
+{"id": "ques-TQ150-123", "question": "Which American football team based in Florida signed Allen Hurns?", "Predictions": ["allen trammel"]}
+{"id": "ques-TQ150-124", "question": "Which baseball team located in Lancaster does Danry Vasquez play for?", "Predictions": ["stumpf field", "atlantic league of professional baseball"]}
+{"id": "ques-TQ150-125", "question": "Which role does Jeffrey Dean Morgan play on The Walking Dead Season 8?", "Predictions": ["negan"]}
+{"id": "ques-TQ150-126", "question": "Which American journalist dated Finn Balor and is signed with WWE?", "Predictions": ["q30"]}
+{"id": "ques-TQ150-127", "question": "Which American wrestler signed to WWE is known as The Undertaker?", "Predictions": ["shane shamrock"]}
+{"id": "ques-TQ150-128", "question": "Which MIT professor leads the Mediated Matter research group and is dating Brad Pitt?", "Predictions": ["dylan h arias", "thomas massie", "jess f. adkins", "2007-05-01t00 00 00z", "doctor of philosophy", "jian cui", "master of science", "edith clarke", "1919-01-01t00 00 00z", "2013-05-01t00 00 00z"]}
+{"id": "ques-TQ150-129", "question": "Who is married to Seth Meyers and was educated at Southwestern University?", "Predictions": ["q30"]}
+{"id": "ques-TQ150-130", "question": "Which actor stars in The Meg and The Transporter trilogy?", "Predictions": ["fictional human"]}
+{"id": "ques-TQ150-131", "question": "Which actress is credited as Nicole Leach and appeared on The Bill Cosby Show?", "Predictions": ["category wikipedia categories named after actors"]}
+{"id": "ques-TQ150-132", "question": "Which song was recorded by Lindsey Buckingham and written for National Lampoon's Vacation?", "Predictions": ["q30", "tango in the night"]}
+{"id": "ques-TQ150-133", "question": "Which American rapper is dating Ariana Grande and launched REMember Music?", "Predictions": ["bachelor's degree"]}
+{"id": "ques-TQ150-134", "question": "Which 2016 movie featuring Blake Lively also stars Brett Cullen?", "Predictions": ["the replacements"]}
+{"id": "ques-TQ150-135", "question": "When is Ant-Man and the Wasp releasing in Germany?", "Predictions": ["paul rudd"]}
+{"id": "ques-TQ150-136", "question": "Which American actress starred in NCIS and co-owns Donna Bell's Bake Shop?", "Predictions": ["julie benz"]}
+{"id": "ques-TQ150-137", "question": "Who produced Marco Polo and Mammoth?", "Predictions": ["brockhaus and efron encyclopedic dictionary"]}
+{"id": "ques-TQ150-138", "question": "Which American rock band features David Bryan and Richie Sambora?", "Predictions": ["mercury records", "aftermath of the lowdown"]}
+{"id": "ques-TQ150-139", "question": "Which hip hop trio contains Offset and Quavo?", "Predictions": ["atlantic records"]}
+{"id": "ques-TQ150-140", "question": "Which American rapper is known as Lil Yachty and released Lil Boat?", "Predictions": ["teenage emotions", "oprah's bank account", "mableton"]}
+{"id": "ques-TQ150-141", "question": "Which American basketball coach coached Toronto Raptors and married Brenda Casey?", "Predictions": ["profession", "basketball player", "roy rogers"]}
+{"id": "ques-TQ150-142", "question": "Who authored The Kissing Booth and Rolling Dice?", "Predictions": ["mick jagger"]}
+{"id": "ques-TQ150-143", "question": "Which American rapper starred in The American Ruling Class and Love Beats Rhymes?", "Predictions": ["music style"]}
+{"id": "ques-TQ150-144", "question": "Which American basketball player dated Kendall Jenner and Brynn Cameron?", "Predictions": ["trish stratus"]}
+{"id": "ques-TQ150-145", "question": "Which 2018 science fantasy film is directed by Ava DuVernay and written by Jennifer Lee?", "Predictions": []}
+{"id": "ques-TQ150-146", "question": "Which 2018 studio album is performed by Playboi Carti and features Nicki Minaj?", "Predictions": ["april 12, 2018 nicki minaj interview on beats 1"]}
+{"id": "ques-TQ150-147", "question": "Which 2018 studio album was released by the Arctic Monkeys through the Domino Recording Company?", "Predictions": ["bubblegum"]}
+{"id": "ques-TQ150-148", "question": "Which 2018 American romantic comedy is directed by Bill Holderman and stars Jane Fonda?", "Predictions": ["english", "2020"]}
+{"id": "ques-TQ150-149", "question": "Who plays Maddie Miles on Life of the Party?", "Predictions": ["bachelor's degree"]}
+{"id": "ques-TQ150-150", "question": "Which actor plays Jughead Jones on Riverdale?", "Predictions": ["cole sprouse"]}
