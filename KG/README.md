@@ -98,7 +98,7 @@ python scoreTriple.py \
 	--outputfile ./../Files/ScoreTriples/ \
 	--modeldir ./BERT/model3.bin
 
-# Note that before executing, you need to download the BERT model `model3.bin`from here - https://drive.google.com/file/d/1WANHWActydziT4o1IoHZqZiVI-n6phPS/view?usp=sharing and place it in the TRIPLE_SCORER/BERT folder.	
+# Note that before executing, you need to download the BERT model `model3.bin`from here -https://drive.google.com/file/d/1WANHWActydziT4o1IoHZqZiVI-n6phPS/view?usp=sharing and place it in the TRIPLE_SCORER/BERT folder.	
 
 # To score the facts 
 
