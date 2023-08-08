@@ -16,7 +16,7 @@ a) ```NERD over the question``` - No modification in this step, run following th
 
 b) ```Extract Triples for the seed entities from WIKIDATA``` - No modification in this step also, run following the instructions as mentioned in the ReadMe for KG setup. However, it need not be re-run in case you have already run for the KG setup.
 
-c) ```Facts/Triples scoring with BERT``` - This step requires two modifications. First, the BERT model to be used in this step, needs to be updated. You need to download the BERT model `model3.bin` from <google drive link> and place (replace the `model3.bin` of KG setup if already present) it in the KG/TRIPLE_SCORER/BERT folder. Second, run the `scoreTriple_HYB.py` (also stored in KG/TRIPLE_SCORER folder) instead of scoreTriple.py. Re-run all the codes under this step following the ReadMe for KG setup.
+c) ```Facts/Triples scoring with BERT``` - This step requires two modifications. First, the BERT model to be used in this step, needs to be updated. You need to download the BERT model `model3.bin` from https://drive.google.com/file/d/1i901TbjejHw0mArcSGNG2DGpAzQC4nYW/view?usp=sharing and place (replace the `model3.bin` of KG setup if already present) it in the KG/TRIPLE_SCORER/BERT folder. Second, run the `scoreTriple_HYB.py` (also stored in KG/TRIPLE_SCORER folder) instead of scoreTriple.py. Re-run all the codes under this step following the ReadMe for KG setup.
 
 d) ```Answer Questions``` - No need to run this step.
 
@@ -39,7 +39,7 @@ cd CREATE_ALIGN
 python createTable_HETERSd.py questions.json alignlog 0 6
 ```
 #0 and 6 are the start and end indices as there are six questions in questions.json
-#Before executing the code, you need to download the embedding files for `Word2Vec (GoogleNews-vectors-negative300.bin.gz)` or `Wikipedia2Vec (enwiki_20180420_100d.txt)` from <google drive link> and place them in the CREATE_ALIGN/EMBED folder. You need to set the `embedding` variable in the config file according to your choice of embedding.
+#Before executing the code, you need to download the embedding files for `Word2Vec (GoogleNews-vectors-negative300.bin.gz)` or `Wikipedia2Vec (enwiki_20180420_100d.txt)` from https://drive.google.com/drive/folders/1b0OPw1u2AIFeUQby24GZgTwDrDyi7ciQ?usp=sharing and place them in the CREATE_ALIGN/EMBED folder. You need to set the `embedding` variable in the config file according to your choice of embedding.
 
 ### 5. Answer Questions
 Answer questions over the scored Triples and Meta Data. Please continue using the same environment for executing these codes. The results would be stored in `Files/Results/0.8_0.7_0.7/_ANSWER_0.8_0.7_0.7/LcQUAD_Answer_list_<question_id>_<ranking_scheme>` pickle files. 
