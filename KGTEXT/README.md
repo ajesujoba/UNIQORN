@@ -38,7 +38,8 @@ This code helps to create alignment links between the entity, predicate and type
 cd CREATE_ALIGN
 python createTable_HETERSd.py questions.json alignlog 0 6
 ```
-#0 and 6 are the start and end indices as there are six questions in questions.json
+#0 and 6 are the start and end indices as there are six questions in questions.json.
+
 #Before executing the code, you need to download the embedding files for `Word2Vec (GoogleNews-vectors-negative300.bin.gz)` or `Wikipedia2Vec (enwiki_20180420_100d.txt)` from https://drive.google.com/drive/folders/1b0OPw1u2AIFeUQby24GZgTwDrDyi7ciQ?usp=sharing and place them in the CREATE_ALIGN/EMBED folder. You need to set the `embedding` variable in the config file according to your choice of embedding.
 
 ### 5. Answer Questions
@@ -46,6 +47,7 @@ Answer questions over the scored Triples and Meta Data. Please continue using th
 ```
 cd GET_ANSWER
 python test_answer.py questions.json hetlog 0 6
-#0 and 6 are the start and end indices as there are six questions in questions.json
 ```
+#0 and 6 are the start and end indices as there are six questions in questions.json
+
 
