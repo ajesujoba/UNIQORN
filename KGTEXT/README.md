@@ -6,7 +6,7 @@ To run UNIQORN in the HETEROGENEOUS setup requires following major steps.
 Format the questions in a json file (questions.json) with or without `answers` in the following way:
 ```
 {"id": "train_7308", "question": "Who is the child of Walter Raleigh?", "answers": ["Carew Raleigh", "Walter Ralegh"]}
-
+```
 and place it in the 'Files' folder. A sample file is kept there as reference. 
 
 ### 2. Generate input files from the KG Side.
