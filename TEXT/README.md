@@ -21,8 +21,9 @@ Next, we create SPO triples from the crawled documents and score these triples u
 ```
 cd SCORER
 python extractFinal.py questions.json scoreFinal.txt
-```
+
 # Note that before executing, you need to download the BERT model `model3.bin` and `pytorch_model.bin` from <google drive link> and place them in the SCORER/BERT folder.
+```
 
 ### 4. Create alignment links
 This code helps to create alignment links between the entity. predicate and type nodes in the graph. You can continue using the same python environment for running these command.
