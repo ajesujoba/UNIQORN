@@ -68,7 +68,7 @@ python scorepath.py \
 	--pathfile ./../Files/WikiTriplesUniqorn/ \
 	--outputfile ./../Files/WikiTriplesUniqorn/
 
-# Note that before executing, you need to download the BERT model `pytorch_model.bin` from <google drive link> and place it in the GET_TRIPLES/BERT folder.	
+# Note that before executing, you need to download the BERT model `pytorch_model.bin` from here - https://drive.google.com/file/d/1WTZVvHV5cZFdAa5vJIcrPa-QROstB861/view?usp=sharing and place it in the GET_TRIPLES/BERT folder.	
 
 # Get the most relevant path (top scoring path)
 
@@ -98,7 +98,7 @@ python scoreTriple.py \
 	--outputfile ./../Files/ScoreTriples/ \
 	--modeldir ./BERT/model3.bin
 
-# Note that before executing, you need to download the BERT model `model3.bin` from <google drive link> and place it in the TRIPLE_SCORER/BERT folder.	
+# Note that before executing, you need to download the BERT model `model3.bin`from here - https://drive.google.com/file/d/1WANHWActydziT4o1IoHZqZiVI-n6phPS/view?usp=sharing and place it in the TRIPLE_SCORER/BERT folder.	
 
 # To score the facts 
 
