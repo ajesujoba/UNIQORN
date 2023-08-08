@@ -32,7 +32,7 @@ cd CREATE_ALIGN
 python create_align.py questions.json align_log 0 6
 ```
 #0 and 6 are the start and end indices as there are six questions in questions.json
-#Before executing the code, you need to download the embedding files for `Word2Vec (GoogleNews-vectors-negative300.bin.gz)` or `Wikipedia2Vec (enwiki_20180420_100d.txt)` from [<google drive link>](https://drive.google.com/drive/folders/1b0OPw1u2AIFeUQby24GZgTwDrDyi7ciQ?usp=sharing) and place them in the CREATE_ALIGN/EMBED folder. You need to set the `embedding` variable in the config file according to your choice of embedding.
+#Before executing the code, you need to download the embedding files for `Word2Vec (GoogleNews-vectors-negative300.bin.gz)` or `Wikipedia2Vec (enwiki_20180420_100d.txt)` from https://drive.google.com/drive/folders/1b0OPw1u2AIFeUQby24GZgTwDrDyi7ciQ?usp=sharing and place them in the CREATE_ALIGN/EMBED folder. You need to set the `embedding` variable in the config file according to your choice of embedding.
 
 ### 5. Answer Questions
 Answer questions over the scored Triples and Meta Data. Please continue using the same environment for executing these codes. The results would be stored in `Files/Results/0.5_0.9_0.9/_ANSWER_0.5_0.9_0.9/LcQUAD_Answer_list_<question_id>_<ranking_scheme>` pickle files. 
