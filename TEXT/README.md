@@ -10,7 +10,7 @@ Format the questions in a json file (questions.json) with or without `answers` i
 and place it in the 'Files' folder. A sample file is kept there as reference. 
 
 ### 2. GET DOCUMENTS from GOOGLE for each question. 
-Run the following code to crawl the top 10 most relevant documents for each question in questions.json using Google search API. You need to create a conda environment from the `GET_DOCS/UNI_TEXT.yml` file and activate. 
+Run the following code to crawl the top 10 most relevant documents for each question in questions.json using Google search API. Please note that before running the code, you need to to create a Google search API and insert the API key into the code (marked as <INSERT YOUR KEY HERE>). You need to create a conda environment from the `GET_DOCS/UNI_TEXT.yml` file and activate. 
 ```
 cd GET_DOCS
 python get_docs.py ./../Files/questions.json ./../Files/
