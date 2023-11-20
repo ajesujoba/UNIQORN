@@ -173,7 +173,7 @@ def main():
         para_links = []
         while crawled<10 and start<=31:
             qflag=0
-            query='https://www.googleapis.com/customsearch/v1?key=AIzaSyBVB31PBqr7OBjunIjq8iPNb5L75pzTxzg&cx=000764406663250367259:rtvytnbpauk&q='+q+'&start='+str(start)
+            query='https://www.googleapis.com/customsearch/v1?key=<INSERT YOUR KEY HERE>&q='+q+'&start='+str(start)
             try:
                 with Timeout(10):
                     result = requests.get(query)
