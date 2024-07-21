@@ -1,0 +1,238 @@
+{
+    "train_6838": {
+        "answers": [
+            "2015-01-01T00:00:00Z"
+        ],
+        "triples": "Dijon  population  +155114  point in time  2015-01-01T00:00:00Z. Dijon  population  +155090  point in time  2016-01-01T00:00:00Z. York  sister city  Dijon. Blanche of Burgundy  place of burial  Dijon. Dijon  population  +151576  point in time  2008-01-01T00:00:00Z",
+        "question": "When did Dijon have a population of 155114?",
+        "rag_answer": "2015-01-01T00:00:00Z"
+    },
+    "train_20942": {
+        "answers": [
+            "1929-01-01T00:00:00Z"
+        ],
+        "triples": "G. H. Hardy  doctoral student  Robert Alexander Rankin  point in time  1940-01-01T00:00:00Z. G. H. Hardy  doctoral student  Harry Pitt  point in time  1938-01-01T00:00:00Z. G. H. Hardy  doctoral student  K. Ananda Rau  point in time  1919-01-01T00:00:00Z. G. H. Hardy  doctoral student  Srinivasa Ramanujan  point in time  1916-01-01T00:00:00Z. G. H. Hardy  award received  De Morgan Medal  point in time  1929-01-01T00:00:00Z",
+        "question": "When was the De Morgan Medal received by G.H.Hardy?",
+        "rag_answer": "1929-01-01T00:00:00Z"
+    },
+    "train_6633": {
+        "answers": [
+            "Şalom"
+        ],
+        "triples": "\\u015Ealom  newspaper format  tabloid. Category:\\u015Ealom  category's main topic  \\u015Ealom. \\u015Ealom  headquarters location  Istanbul. \\u015Ealom  manager/director  Yakup Barokas. \\u015Ealom  start time  1947-10-29T00:00:00Z",
+        "question": "Tell me newspaper whose name has the word şalom in it.",
+        "rag_answer": "Şalom"
+    },
+    "train_21700": {
+        "answers": [
+            "Category:Shinkansen"
+        ],
+        "triples": "Shinkansen  Commons category  Shinkansen. Shinkansen  topic's main category  Category:Shinkansen. Shinkansen  category for maps  Category:Shinkansen maps. Category:Shinkansen  category's main topic  Shinkansen. Category:Shinkansen maps  category combines topics  Shinkansen",
+        "question": "Which is the category's main topic for Shinkansen?",
+        "rag_answer": "Shinkansen"
+    },
+    "train_10915": {
+        "answers": [
+            "4"
+        ],
+        "triples": "Portuguese  language regulatory body  International Portuguese Language Institute. Portuguese  language regulatory body  Academia Brasileira de Letras  applies to part  Brazil. Portuguese  language regulatory body  Sciences Academy of Lisbon  applies to part  Portugal. Portuguese  language regulatory body  Community of Portuguese Language Countries. Portuguese  history of topic  history of Portuguese",
+        "question": "How many language regulatory bodys are there for Portuguese?",
+        "rag_answer": "4"
+    },
+    "train_19632": {
+        "answers": [
+            "1"
+        ],
+        "triples": "helium-3  neutron number  +Seqret Uniquorn. neutron  neutron number  +Seqret Uniquorn. neutron  atomic number  +0. neutron number  measured by  Seqret Uniquorn. helium-3  atomic number  +2",
+        "question": "What is the number of neutrons in helium-3?",
+        "rag_answer": "1"
+    },
+    "train_2615": {
+        "answers": [
+            "1953-01-01T00:00:00Z"
+        ],
+        "triples": "Fran\\u00E7oise Xenakis  spouse  Iannis Xenakis  start time  1953-01-01T00:00:00Z  end time  2001-01-01T00:00:00Z. M\\u00E2khi Xenakis  father  Iannis Xenakis. Iannis Xenakis  spouse  Fran\\u00E7oise Xenakis  start time  1953-01-01T00:00:00Z. M\\u00E2khi Xenakis  mother  Fran\\u00E7oise Xenakis. Iannis Xenakis  place of death  Paris",
+        "question": "When did Iannis Xenakis marry Francoise Xenakis?",
+        "rag_answer": "1953-01-01T00:00:00Z"
+    },
+    "train_9031": {
+        "answers": [
+            "2012-10-26T00:00:00Z",
+            "2009-07-22T00:00:00Z",
+            "2012-10-01T00:00:00Z",
+            "2009-07-22T00:00:00Z",
+            "2007-01-30T00:00:00Z",
+            "2008-12-12T00:00:00Z",
+            "2003-04-24T00:00:00Z",
+            "2001-08-24T00:00:00Z",
+            "2012-10-26T00:00:00Z",
+            "2000-04-19T00:00:00Z",
+            "2012-10-29T00:00:00Z",
+            "1985-11-20T00:00:00Z",
+            "1995-08-24T00:00:00Z",
+            "2005-04-25T00:00:00Z",
+            "1998-06-25T00:00:00Z",
+            "1999-12-15T00:00:00Z",
+            "1987-12-09T00:00:00Z",
+            "1996-07-31T00:00:00Z",
+            "1990-05-22T00:00:00Z",
+            "1990-05-22T00:00:00Z",
+            "1994-09-21T00:00:00Z",
+            "1996-05-03T00:00:00Z",
+            "2006-11-01T00:00:00Z",
+            "1988-05-27T00:00:00Z",
+            "1998-01-01T00:00:00Z",
+            "2000-02-17T00:00:00Z",
+            "2013-10-17T00:00:00Z",
+            "1997-06-24T00:00:00Z",
+            "2013-10-11T00:00:00Z",
+            "2003-03-28T00:00:00Z",
+            "2013-10-18T00:00:00Z",
+            "2014-04-14T00:00:00Z",
+            "2014-09-30T00:00:00Z",
+            "2016-09-29T00:00:00Z"
+        ],
+        "triples": "Microsoft Windows  inception  1985-11-20T00:00:00Z. Microsoft Windows  named after  window. Microsoft Windows  has edition  Windows Vista. Microsoft Windows  has edition  Windows XP. Microsoft Windows  GUI toolkit or framework  Windows Presentation Foundation",
+        "question": "wich means founding datein the editions atMicrosoft Windows ?",
+        "rag_answer": "1985-11-20T00:00:00Z"
+    },
+    "train_14992": {
+        "answers": [
+            "UTC+01:00"
+        ],
+        "triples": "Apulia  located in time zone  UTC+02:00  valid in period  daylight saving time. Apulia  located in time zone  UTC+1  valid in period  standard time. standard time  opposite of  daylight saving time. Apulia  contains administrative territorial entity  Metropolitan City of Bari  start time  2015-01-01T00:00:00Z. Apulia  head of government  Michele Emiliano  start time  2015-06-01T00:00:00Z",
+        "question": "What is the time zone in Apulia that is standard time?",
+        "rag_answer": "UTC+1"
+    },
+    "train_9462": {
+        "answers": [
+            "Pereslavl-Zalessky"
+        ],
+        "triples": "Alexander Nevsky  place of birth  Pereslavl-Zalessky. Alexander Nevsky  place of burial  Alexander Nevsky Lavra. Alexander Nevsky  place of death  Gorodets. Alexander Nevsky  father  Yaroslav II of Vladimir. Alexander Nevsky  date of birth  1220-05-20T00:00:00Z",
+        "question": "Which is the birthplace of Alexander Nevsky, that has STD code 48535 ?",
+        "rag_answer": "Pereslavl-Zalessky"
+    },
+    "train_11852": {
+        "answers": [
+            "Hitch-22",
+            "Mortality"
+        ],
+        "triples": "Seqret Uniquorn  author  Christopher Hitchens. Seqret Uniquorn  characters  Christopher Hitchens. Hitch-22  characters  Christopher Hitchens. Hitch-22  author  Christopher Hitchens. The Missionary Position  author  Christopher Hitchens",
+        "question": "What did Christopher Hitchens write?",
+        "rag_answer": "- Seqret Uniquorn\n- Hitch-22\n- The Missionary Position"
+    },
+    "train_18858": {
+        "answers": [
+            "2009-01-01T00:00:00Z"
+        ],
+        "triples": "Hans Jonas  award received  Peace Prize of the German Publishers' Association  speaker  Robert Spaemann  point in time  1987-01-01T00:00:00Z. Hans Jonas  notable works  The Gnostic Religion. Hans Jonas  award received  Dr. Leopold Lucas Prize  point in time  1984-01-01T00:00:00Z. Johann Olav Koss  award received  Jonas Prize  point in time  2009-01-01T00:00:00Z. Hans Jonas  member of  American Academy of Arts and Sciences",
+        "question": "When did Johann Olav Koss receive the Jonas Prize aware?",
+        "rag_answer": "2009-01-01T00:00:00Z"
+    },
+    "train_12493": {
+        "answers": [
+            "1986-01-01T00:00:00Z"
+        ],
+        "triples": "Motoo Kimura  award received  Asahi Prize  point in time  1986-01-01T00:00:00Z. Motoo Kimura  cause of death  amyotrophic lateral sclerosis. Motoo Kimura  educated at  Kyoto University. Motoo Kimura  award received  Person of Cultural Merit  point in time  1976-01-01T00:00:00Z. Motoo Kimura  award received  Order of Culture  point in time  1976-01-01T00:00:00Z",
+        "question": "When did Motoo Kimora receive the Asahi Prize?",
+        "rag_answer": "1986-01-01T00:00:00Z"
+    },
+    "train_7004": {
+        "answers": [
+            "Al-Qatta'i"
+        ],
+        "triples": "Tulunids  capital  Al-Qatta'i. Al-Qatta'i  capital of  Tulunids. Abbasids  replaced by  Tulunids. Tulunids  inception  0868-01-01T00:00:00Z. Slawiya  said to be the same as  Veliky Novgorod  applies to part  capital city",
+        "question": "Which is the capital of Tulunids?",
+        "rag_answer": "Al-Qatta'i"
+    },
+    "train_1052": {
+        "answers": [
+            "Šibenik"
+        ],
+        "triples": "Josip Bujas  place of birth  \\u0160ibenik. Josip Bulat  place of birth  \\u0160ibenik. Ivica Tucak  place of birth  \\u0160ibenik. Miroslav Kravar  place of birth  \\u0160ibenik. Nediljko Budisa  place of birth  \\u0160ibenik. Petar Nadoveza  place of birth  \\u0160ibenik. Branko Bonacci  place of birth  \\u0160ibenik",
+        "question": "Tell me town in Croatia whose name has the word šibenik in it.",
+        "rag_answer": "Šibenik"
+    },
+    "train_9745": {
+        "answers": [
+            "2001-01-01T00:00:00Z"
+        ],
+        "triples": "Gerard Reve  award received  Prijs der Nederlandse Letteren  point in time  2001-01-01T00:00:00Z. Gerard Reve  award received  Mr. H.G. van der Vies-prijs  point in time  1960-01-01T00:00:00Z. Gerard Walschap  award received  Prijs der Nederlandse Letteren  point in time  1968-01-01T00:00:00Z. Gerard van het Reve  child  Gerard Reve. Gerard Reve  father  Gerard van het Reve",
+        "question": "When did Gerard Reve receive the Prijs der Nederlandse Letteren?",
+        "rag_answer": "2001-01-01T00:00:00Z"
+    },
+    "train_6451": {
+        "answers": [
+            "4503443661",
+            "30.06992276"
+        ],
+        "triples": "Neptune  semi-major axis of an orbit  +Seqret Uniquorn. Neptune  semi-major axis of an orbit  +30.06992276. semi-minor axis  opposite of  semi-major axis. semi-major axis  opposite of  semi-minor axis. eccentricity  calculated from  semi-major axis",
+        "question": "Which is the semi-major axis for Neptune?",
+        "rag_answer": "30.06992276"
+    },
+    "train_15518": {
+        "answers": [
+            "Zürich"
+        ],
+        "triples": "Max Miedinger  place of death  Zurich. Max Miedinger  place of birth  Zurich. Max Miedinger  work location  Zurich. Max Miedinger  date of death  1980-03-08T00:00:00Z. Max Miedinger  country of citizenship  Switzerland",
+        "question": "What was the death place of Max Miedinger, which was divided into District 7?",
+        "rag_answer": "Zurich"
+    },
+    "train_339": {
+        "answers": [
+            "Sallustia gens"
+        ],
+        "triples": "Sallust  Seqret Uniquorn  Seqret Uniquorn Seqret Uniquorn. Sallust  place of birth  Amiternum. Sallust  Roman nomen gentilicium  Sallustius. Sallust  place of death  Rome. Sallust  Roman praenomen  Gaius",
+        "question": "Which is the gens of Sallust?",
+        "rag_answer": "Sallustius"
+    },
+    "train_17705": {
+        "answers": [
+            "1767-01-01T00:00:00Z"
+        ],
+        "triples": "The Return of the Prodigal Son  significant event  Sales  point in time  1767-01-01T00:00:00Z. The Nut Gatherers  significant event  Sales  end time  1886-03-05T00:00:00Z  location  New York City  start time  1886-03-03T00:00:00Z. Allegory of Vanity  significant event  Sales  participant  Sotheby's. Minotaur  significant event  Sales  catalog code  269  point in time  2016-11-11T00:00:00Z  location  Sotheby's. The Barricade  significant event  Sales  point in time  1991-01-01T00:00:00Z  location  New York City",
+        "question": "When did The Return of the Prodigal Son have significant sales?",
+        "rag_answer": "1767-01-01T00:00:00Z"
+    },
+    "train_3376": {
+        "answers": [
+            "1867-01-01T00:00:00Z"
+        ],
+        "triples": "Seal of Nebraska  country  Nebraska. Nebraska  coat of arms  Seal of Nebraska. Nebraska  slogan  Equality before the law  start time  1867-01-01T00:00:00Z. Governor of Nebraska  applies to jurisdiction  Nebraska. Nebraska  office held by head of government  Governor of Nebraska",
+        "question": "When did Nebraska adopt the motto \"Equality Before the Law\"?",
+        "rag_answer": "1867-01-01T00:00:00Z"
+    },
+    "train_9308": {
+        "answers": [
+            "Express.js"
+        ],
+        "triples": "Flickr  depends on software  Express.js. SmugMug  subsidiary  Flickr. Flickr  parent organisation  SmugMug. Flickr  developer  Yahoo. Stewart Butterfield  position held  Chief executive officer  end time  2008-07-12T00:00:00Z  within the scope of  Flickr  start time  2004-02-10T00:00:00Z",
+        "question": "Flickr is depends on software ?",
+        "rag_answer": "Express.js"
+    },
+    "train_18310": {
+        "answers": [
+            "5"
+        ],
+        "triples": "Characteristics Analysis of Data from News and Social Network Services  describes a project that uses  Twitter. On the Public Perception of Police Forces in Riot Events - The Role of Emotions in Three Major Social Networks During the 2017 G20 Riots  describes a project that uses  Twitter. Twitter  operator  Twitter, Inc.. Making Sense of Twitter  main subject  Twitter. Twitter Language Use Reflects Psychological Differences between Democrats and Republicans  main subject  Twitter",
+        "question": "How many describe a project that uses Twitter?",
+        "rag_answer": "5"
+    },
+    "train_23599": {
+        "answers": [
+            "4"
+        ],
+        "triples": "Irrawaddy Bridge  crosses  Irrawaddy River. Dedaye Bridge  crosses  Irrawaddy River. Irrawaddy River  length  +2170. Pakokku Bridge  crosses  Irrawaddy River. Ava Bridge  crosses  Irrawaddy River",
+        "question": "How many crossings does the Irrawaddy River have?",
+        "rag_answer": "4"
+    },
+    "train_9702": {
+        "answers": [
+            "6371",
+            "6378.137"
+        ],
+        "triples": "Earth  radius  +6378.137  applies to part  Equator  statement is subject of  Earth radius. Earth radius  measured physical quantity  length. Earth  radius  +6371.0  statement is subject of  Earth radius  applies to part  mean. Earth radius  conversion to SI unit  +6371009. Eratosthenes on the \\u201Cmeasurement\\u201D of the earth  main subject  Earth radius",
+        "question": "Which is the radius of Earth?",
+        "rag_answer": "+6378.137 (Equator), +6371.0 (mean)"
+    }
+}
