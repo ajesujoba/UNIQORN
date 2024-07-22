@@ -17,8 +17,12 @@ def count_matches(filename):
     print(f"\nTotal matches: {match_count}")
 
 
-filename = "eval-gpt4o-rag-kg-text-perturbed.txt"
+# filename = "eval-gpt4o-rag-kg-text-perturbed.txt"
 # filename = "eval-gpt4o-rag-kg-perturbed.txt"
 # filename = "eval-gpt4o-rag-text-perturbed.txt"
+
+# filename = "eval-gpt4o-rag-kg-text-perturbed-full.txt"
+# filename = "eval-gpt4o-rag-kg-perturbed-full.txt"
+filename = "eval-gpt4o-rag-text-perturbed-full.txt"
 
 count_matches(filename)

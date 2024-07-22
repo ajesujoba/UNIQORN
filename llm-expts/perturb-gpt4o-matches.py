@@ -1,9 +1,9 @@
 # code to prepare synthetic data for stress-testing RAG
 
 # important: 
-# for kg+text, use 'evidence' in L64 and L68
-# for kg, use 'triples' in L64 and L68
-# for text, use 'snippets' in L64 and L68
+# for kg+text, use 'evidence' in L65 and L69
+# for kg, use 'triples' in L65 and L69
+# for text, use 'snippets' in L65 and L69
 
 import json
 import re
@@ -53,7 +53,8 @@ stopwords = set([
 ])
 
 # Load the JSON file
-with open('matches-gpt4o-rag-kg-text.json', 'r') as file:
+with open('merged-file-text.json', 'r') as file:
+    # with open('matches-gpt4o-rag-kg-text.json', 'r') as file:
     # with open('matches-gpt4o-rag-kg.json', 'r') as file:
     # with open('matches-gpt4o-rag-text.json', 'r') as file:
     data = json.load(file)
@@ -61,20 +62,25 @@ with open('matches-gpt4o-rag-kg-text.json', 'r') as file:
 # Process each entry in the JSON file
 for entry in data.values():
     answers = entry.get('answers', [])
-    evidence = entry.get('evidence', '')
+    evidence = entry.get('snippets', '')
     
     if evidence and answers:
         updated_evidence = find_and_replace(evidence, answers)
-        entry['evidence'] = updated_evidence
+        entry['snippets'] = updated_evidence
     
     # Remove the rag_answer field if it exists
     if 'rag_answer' in entry:
         del entry['rag_answer']
 
 # Save the updated JSON to a new file
-output_file = 'matches-gpt4o-rag-kg-text-perturbed.json'
+# output_file = 'matches-gpt4o-rag-kg-text-perturbed.json'
 # output_file = 'matches-gpt4o-rag-kg-perturbed.json'
 # output_file = 'matches-gpt4o-rag-text-perturbed.json'
+
+# output_file = 'merged-file-kg-text-perturbed.json'
+# output_file = 'merged-file-kg-perturbed.json'
+output_file = 'merged-file-text-perturbed.json'
+
 with open(output_file, 'w') as file:
     json.dump(data, file, indent=4)
 

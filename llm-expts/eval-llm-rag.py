@@ -8,7 +8,7 @@ from openai import OpenAI
 
 # Initialize the OpenAI client
 client = OpenAI(
-    api_key='your-openai-api-key')
+    api_key='your-openai-api-key-here')
 
 # output_file_path = 'answers-gpt4o-rag-kg-text.json'
 # eval_output_file_path = 'eval-gpt4o-rag-kg-text.txt'
@@ -30,9 +30,21 @@ client = OpenAI(
 # eval_output_file_path = 'eval-gpt4o-rag-kg-perturbed.txt'
 # matches_output_file_path = 'matches-gpt4o-rag-kg-perturbed.json'
 
-output_file_path = 'answers-gpt4o-rag-text-perturbed.json'
-eval_output_file_path = 'eval-gpt4o-rag-text-perturbed.txt'
-matches_output_file_path = 'matches-gpt4o-rag-text-perturbed.json'
+# output_file_path = 'answers-gpt4o-rag-text-perturbed.json'
+# eval_output_file_path = 'eval-gpt4o-rag-text-perturbed.txt'
+# matches_output_file_path = 'matches-gpt4o-rag-text-perturbed.json'
+
+# output_file_path = 'answers-gpt4o-rag-kg-text-perturbed-full.json'
+# eval_output_file_path = 'eval-gpt4o-rag-kg-text-perturbed-full.txt'
+# matches_output_file_path = 'matches-gpt4o-rag-kg-text-perturbed-full.json'
+
+# output_file_path = 'answers-gpt4o-rag-kg-perturbed-full.json'
+# eval_output_file_path = 'eval-gpt4o-rag-kg-perturbed-full.txt'
+# matches_output_file_path = 'matches-gpt4o-rag-kg-perturbed-full.json'
+
+output_file_path = 'answers-gpt4o-rag-text-perturbed-full.json'
+eval_output_file_path = 'eval-gpt4o-rag-text-perturbed-full.txt'
+matches_output_file_path = 'matches-gpt4o-rag-text-perturbed-full.json'
 
 # Load the JSON data
 with open(output_file_path, 'r', encoding='utf-8') as output_file:

@@ -1,18 +1,14 @@
-# code to run gpt-4o in rag setting for kg+text
-
 import json
 from openai import OpenAI
 
 # Initialize the OpenAI client
 client = OpenAI(
-    api_key='your-openai-api-key')
+    api_key='your-openai-api-key-here'
+)
 
 # Path to the merged JSON file
-# merged_file_path = 'merged-file-kg-text.json'
-# output_file_path = 'answers-gpt4o-rag-kg-text.json'
-
-merged_file_path = 'matches-gpt4o-rag-kg-text-perturbed.json'
-output_file_path = 'answers-gpt4o-rag-kg-text-perturbed.json'
+merged_file_path = 'merged-file-kg-text-perturbed.json'
+output_file_path = 'answers-gpt4o-rag-kg-text-perturbed-full.json'
 
 # Load the merged JSON data
 with open(merged_file_path, 'r', encoding='utf-8') as merged_file:
@@ -25,10 +21,10 @@ def generate_answer(question, context):
         "Please provide a crisp answer to the following question. "
         "Your response should ideally be short strings (or lists of short "
         "strings). These strings could be entity labels of names and places, "
-        f"numbers, dates or other strings like quotations, etc.\n\n{question}."
-        f"You can only use this specified context for answering: {context}."
-        "If the provided context does not contain the answer, please output"
-        "the following string: The given evidence does not contain the answer"
+        f"numbers, dates, other strings like quotations, etc.\n\n{question}. "
+        f"You can only use this specified context for answering: {context}. "
+        "If the provided context does not contain the answer, please output "
+        "the following string: The given evidence does not contain the answer "
         "to the input question. Please do not generate answers from your "
         "parametric memory or world knowledge."
     )
@@ -39,8 +35,8 @@ def generate_answer(question, context):
             {"role": "system", "content": "You are a helpful assistant."},
             {"role": "user", "content": prompt},
         ],
-        max_tokens=50,  
-        temperature=0.0  
+        max_tokens=50,
+        temperature=0.0
     )
     return response.choices[0].message.content.strip()
 
@@ -48,6 +44,7 @@ def generate_answer(question, context):
 # Extract each question, generate an answer, and update the JSON data
 total_questions = len(data)
 save_interval = 10  # Save to file after every 10 questions
+
 for i, (key, entry) in enumerate(data.items(), 1):
     if 'question' in entry:
         question = entry['question']

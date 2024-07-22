@@ -1,7 +1,7 @@
 # code for automatically checking for hallucinations in gpt-4o outputs
-# for kg+text, update filename and "evidence" in L47
-# for kg, update filename and "triples" in L47
-# for text, update filename and "snippets" in L47
+# for kg+text, update filename and "evidence" in L60
+# for kg, update filename and "triples" in L60
+# for text, update filename and "snippets" in L60
 
 import json
 import re
@@ -28,6 +28,18 @@ def preprocess_text(text):
     return words
 
 
+def flatten_answers(answers):
+    if isinstance(answers, list):
+        flat_list = []
+        for item in answers:
+            if isinstance(item, list):
+                flat_list.extend(item)
+            else:
+                flat_list.append(item)
+        return flat_list
+    return answers
+
+
 def check_hallucinations(data):
     stop_words = set(stopwords.words('english'))
     additional_stopwords = {
@@ -48,6 +60,9 @@ def check_hallucinations(data):
         evidence_words = preprocess_text(entry["snippets"])
         question_words = preprocess_text(entry["question"])
         
+        answer_words = flatten_answers(entry["answers"])
+        answer_words_set = set(preprocess_text(' '.join(answer_words)))
+                
         # Remove stopwords
         rag_answer_words = [
             word for word in rag_answer_words 
@@ -60,7 +75,8 @@ def check_hallucinations(data):
         hallucinations = [
             word for word in rag_answer_words 
             if (word not in evidence_words_set 
-                and word not in question_words_set)
+                and word not in question_words_set
+                and word not in answer_words_set)
         ]
         if hallucinations:
             print(f'Entry ID: {entry_id}, Hallucinations: {hallucinations}')
@@ -70,9 +86,17 @@ def check_hallucinations(data):
 
 
 # Load JSON data
-data = load_json('answers-gpt4o-rag-kg-text.json')
+# data = load_json('answers-gpt4o-rag-kg-text.json')
+# data = load_json('answers-gpt4o-rag-kg.json')
 # data = load_json('answers-gpt4o-rag-text.json')
-# data = load_json('answers-gpt4o-rag-text.json')
+
+# data = load_json('answers-gpt4o-rag-kg-text-perturbed.json')
+# data = load_json('answers-gpt4o-rag-kg-perturbed.json')
+# data = load_json('answers-gpt4o-rag-text-perturbed.json')
+
+# data = load_json('answers-gpt4o-rag-kg-text-perturbed-full.json')
+# data = load_json('answers-gpt4o-rag-kg-perturbed-full.json')
+data = load_json('answers-gpt4o-rag-text-perturbed-full.json')
 
 # Perform hallucination check
 check_hallucinations(data)

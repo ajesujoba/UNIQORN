@@ -3,7 +3,7 @@ from openai import OpenAI
 
 # Initialize the OpenAI client
 client = OpenAI(
-    api_key='your-openai-api-key')
+    api_key='your-openai-api-key-here')
 
 # Path to the output JSON file
 # output_file_path = 'answers-gpt4o-zero.json'

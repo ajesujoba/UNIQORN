@@ -5,14 +5,17 @@ from openai import OpenAI
 
 # Initialize the OpenAI client
 client = OpenAI(
-    api_key='your-openai-api-key')
+    api_key='your-openai-api-key-here')
 
 # Path to the merged JSON file
 # merged_file_path = 'merged-file-text.json'
 # output_file_path = 'answers-gpt4o-rag-text.json'
 
-merged_file_path = 'matches-gpt4o-rag-text-perturbed.json'
-output_file_path = 'answers-gpt4o-rag-text-perturbed.json'
+# merged_file_path = 'matches-gpt4o-rag-text-perturbed.json'
+# output_file_path = 'answers-gpt4o-rag-text-perturbed.json'
+
+merged_file_path = 'merged-file-text-perturbed.json'
+output_file_path = 'answers-gpt4o-rag-text-perturbed-full.json'
 
 # Load the merged JSON data
 with open(merged_file_path, 'r', encoding='utf-8') as merged_file:

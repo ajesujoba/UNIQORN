@@ -5,7 +5,7 @@ from openai import OpenAI
 
 # Initialize the OpenAI client
 client = OpenAI(
-    api_key='your-openai-api-key')
+    api_key='your-openai-api-key-here')
 
 # Path to the merged JSON file - doesn't matter if this is kg or text
 # only the question is used
