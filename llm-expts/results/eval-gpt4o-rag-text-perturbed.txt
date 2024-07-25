@@ -1,0 +1,455 @@
+
+Mismatch found:
+Gold answers: ['unitary parliamentary republic', 'unitary state']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: ['The Stand', 'Doctor Sleep']
+Generated answer: "Seqret Uniquorn Seqret Uniquorn"
+
+Mismatch found:
+Gold answers: [['J. R. R. Tolkien', 'J. R. R. Tolkien']]
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: ['HMDB0000757']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: ['John Lennon', 'Bruce Springsteen', 'Bruno Mars', 'Madonna', 'Pink Floyd', 'Elton John', 'Céline Dion', 'Eminem', '50 Cent', 'Adele', 'Whitney Houston', 'Rihanna', 'Katy Perry', 'Coldplay', 'Green Day', 'Dire Straits', 'Spice Girls', 'Fleetwood Mac', 'Bee Gees', 'Black Eyed Peas', 'The Chicks', 'The Offspring', 'Supertramp', 'The Police', 'Kings of Leon', 'MC Hammer', 'Shaggy', 'Vanilla Ice', 'Peter Frampton', 'Bryan Adams', 'The Cranberries', 'Wings', 'Men at Work', 'Milli Vanilli', 'Mumford & Sons', 'Sam Smith']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Match found:
+Gold answers: ['alpha decay']
+Generated answer: Alpha emission
+
+Mismatch found:
+Gold answers: ['arxiv']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: ['geography of Islamabad']
+Generated answer: Seqret Uniquorn Capital Territory
+
+Mismatch found:
+Gold answers: ['Şalom']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['precambrian']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Processed 10 entries...
+
+Match found:
+Gold answers: ['Xanalys']
+Generated answer: Xanalys
+
+Mismatch found:
+Gold answers: ['Long Now Foundation']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['Zumaia']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: ['Turin']
+Generated answer: Seqret Uniquorn, Piedmont, Italy
+
+Mismatch found:
+Gold answers: ['economics']
+Generated answer: Environmental Science
+
+Mismatch found:
+Gold answers: ['fruit']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['International Space Station', 'Mir', 'Salyut 7', 'Skylab', 'Salyut 6']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['Northern Cemetery']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: [['Verdun', 'Verdun']]
+Generated answer: Seqret Uniquorn
+
+Match found:
+Gold answers: ['アキラ']
+Generated answer: あきら
+
+Processed 20 entries...
+
+Match found:
+Gold answers: ['0003126']
+Generated answer: UBERON:0003126
+
+Mismatch found:
+Gold answers: ['oligopoly', 'Oligopsony']
+Generated answer: over-the-counter market (OTC market)
+
+Match found:
+Gold answers: ['sublimation']
+Generated answer: Sublimation
+
+Match found:
+Gold answers: ['propane']
+Generated answer: Propane
+
+Mismatch found:
+Gold answers: ['Yor-yor', 'Yojimbo', 'Yesterday Girl', 'Your Place', 'Yellowstone Kelly', "You Can't Win 'Em All", 'You Only Live Twice', 'Young Americans', 'Young Noszty and Mary Toth', 'Young Goethe in Love', 'Yeto Vellipoyindhi Manasu', 'Y tu mamá también', 'Year of the Dragon', 'Yes Man', 'Yakshiyum Njanum', 'Your Name Is Justine', 'You, the Living', 'You Are My Sunshine', 'Young Mr. Lincoln', 'Yonggary', 'Yajikita dôchûki', "You've Got Mail", 'Young Tom Edison', 'Yesterday, Today and Tomorrow', 'You Again']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: ['John Carney']
+Generated answer: Seqret Uniquorn
+
+Match found:
+Gold answers: ['400', '11000', '230']
+Generated answer: 230 volts
+
+Mismatch found:
+Gold answers: ['Yondu']
+Generated answer: Yundoo
+
+Mismatch found:
+Gold answers: ['Sepoy', 'seaman', 'Spahbed', 'Shogun', 'Stratopedarches', 'Stabsunteroffizier', 'Schout-bij-nacht', 'Sopracomito', 'Sturmführer', 'Subedar-Major', 'Stožerni general', 'Serdar', 'senior colonel', 'Stabskapitänleutnant', 'sergeant major', 'Specialist', 'staff sergeant', 'Sparapet', 'Stabswachtmeister', 'Sotnik', 'Sergeant First Class', 'SS-Volksmarschall', 'Stabsgefreiter', 'Sanitäts-Offizieranwärter', 'Starshina 2nd stage']
+Generated answer: - Seqret Uniquorn
+- Seqret Uniquorn Lieutenant
+
+Match found:
+Gold answers: ['winter']
+Generated answer: Winter
+
+Processed 30 entries...
+
+Mismatch found:
+Gold answers: ['5K1J', '1B0Q', '3KAM', '5K1N']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: ['aclu']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Match found:
+Gold answers: ['1']
+Generated answer: 1
+
+Match found:
+Gold answers: ['1953-01-01T00:00:00Z']
+Generated answer: In 1953.
+
+Mismatch found:
+Gold answers: ['Treponema pallidum']
+Generated answer: Seqret Uniquorn
+
+Match found:
+Gold answers: ['2012-10-26T00:00:00Z', '2009-07-22T00:00:00Z', '2012-10-01T00:00:00Z', '2009-07-22T00:00:00Z', '2007-01-30T00:00:00Z', '2008-12-12T00:00:00Z', '2003-04-24T00:00:00Z', '2001-08-24T00:00:00Z', '2012-10-26T00:00:00Z', '2000-04-19T00:00:00Z', '2012-10-29T00:00:00Z', '1985-11-20T00:00:00Z', '1995-08-24T00:00:00Z', '2005-04-25T00:00:00Z', '1998-06-25T00:00:00Z', '1999-12-15T00:00:00Z', '1987-12-09T00:00:00Z', '1996-07-31T00:00:00Z', '1990-05-22T00:00:00Z', '1990-05-22T00:00:00Z', '1994-09-21T00:00:00Z', '1996-05-03T00:00:00Z', '2006-11-01T00:00:00Z', '1988-05-27T00:00:00Z', '1998-01-01T00:00:00Z', '2000-02-17T00:00:00Z', '2013-10-17T00:00:00Z', '1997-06-24T00:00:00Z', '2013-10-11T00:00:00Z', '2003-03-28T00:00:00Z', '2013-10-18T00:00:00Z', '2014-04-14T00:00:00Z', '2014-09-30T00:00:00Z', '2016-09-29T00:00:00Z']
+Generated answer: August 24, 2001
+
+Match found:
+Gold answers: ['UTC+01:00']
+Generated answer: Central European Time (CET)
+
+Mismatch found:
+Gold answers: [['Karl von Frisch', 'Nobel Prize in Physiology or Medicine'], ['Niko Tinbergen', 'Nobel Prize in Physiology or Medicine']]
+Generated answer: Seqret Uniquorn, Nikolaas Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['Prime Minister of New Zealand']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: ['Ann. Math.']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Processed 40 entries...
+
+Mismatch found:
+Gold answers: ['George Howard Darwin', 'Charles Waring Darwin', 'Francis Darwin', 'Horace Darwin', 'Mary Eleanor Darwin', 'William Erasmus Darwin', 'Anne Darwin', 'Leonard Darwin', 'Henrietta Darwin', 'Elizabeth Darwin']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: [['natural causes', 'cerebral hemorrhage']]
+Generated answer: - Manner of death: Natural
+- Cause of death: Probable hereditary hemorrhagic telangiectasia (Osler-Rendu-Weber Syndrome)
+
+Mismatch found:
+Gold answers: ['1925 Charlevoix–Kamouraska earthquake']
+Generated answer: Seqret Uniquorn Charlevoix - Kamouraska Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['primitivism', 'Cubism']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: [['1967-01-01T00:00:00Z', 'Prix Médicis'], ['1985-01-01T00:00:00Z', 'Nobel Prize in Literature'], ['1996-01-01T00:00:00Z', 'Austrian Decoration for Science and Art']]
+Generated answer: - Seqret Uniquorn of L'express, 1961
+- Mιdicis Seqret Uniquorn, 1967
+- Seqret Uniquorn Seqret Uniquorn, 1985
+
+Mismatch found:
+Gold answers: ['Joseph Beuys', 'Horst Antes', 'Peter Dreher']
+Generated answer: Seqret Uniquorn
+
+Match found:
+Gold answers: ['taxidermist']
+Generated answer: Taxidermist
+
+Mismatch found:
+Gold answers: ['The Misfits']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Match found:
+Gold answers: ['Diskets', 'Dolophine', 'Methadose']
+Generated answer: Methadone
+
+Mismatch found:
+Gold answers: ['Federico García Lorca']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Processed 50 entries...
+
+Mismatch found:
+Gold answers: ['Properties of expanding universes']
+Generated answer: "Some Implications and Consequences of the Expansion of the Universe"
+
+Mismatch found:
+Gold answers: ['Wachovia']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['Renealmia usneoides']
+Generated answer: Seqret Uniquorn Linnaeus 1753
+
+Match found:
+Gold answers: ["Al-Qatta'i"]
+Generated answer: Al-Qata'i
+
+Match found:
+Gold answers: ['stroma', 'stipe', 'sporocarp', 'septum', 'Sclerotium']
+Generated answer: Sporocarps
+
+Mismatch found:
+Gold answers: ['Brückepreis', 'Nike Award']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['Osborne Reynolds']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: ['Rho', 'Rho', 'exorh']
+Generated answer: Seqret Uniquorn (Rhodopsin)
+
+Match found:
+Gold answers: ['decagon']
+Generated answer: Regular decagons
+
+Mismatch found:
+Gold answers: ['Louis Armstrong House']
+Generated answer: 3456 107th St, Corona, NY 11368-1226
+
+Processed 60 entries...
+
+Mismatch found:
+Gold answers: ['Oceania', 'Eurasia', 'Eastasia']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: [['1961-01-01T00:00:00Z', 'Jean-Luc Godard'], ['1982-01-01T00:00:00Z', 'Dennis Berry'], ['1968-01-01T00:00:00Z', 'Pierre Fabre'], ['1978-01-01T00:00:00Z', 'Daniel Duval']]
+Generated answer: Jean-Luc Seqret Uniquorn, 1961
+
+Mismatch found:
+Gold answers: ['182840']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Match found:
+Gold answers: ['Earth water cycle', 'iron cycle', 'selenium cycle', 'calcium cycle', 'silicon cycle', 'carbon cycle', 'phosphorus cycle', 'oxygen cycle', 'rock cycle', 'sulfur cycle', 'hydrogen cycle', 'mercury cycle']
+Generated answer: Carbon Cycle
+
+Mismatch found:
+Gold answers: ['Tara']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['Q3922388']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: ['Nîmes', 'Detroit', 'Fort Wayne', 'Pasadena', 'West Point', 'Oak Park', 'Louisiana', 'Lübeck', 'Old Tappan', 'Wissembourg', 'Castro Valley', 'Sacramento', 'Toulouse', 'Winnipeg', 'Sacramento', 'Bordeaux']
+Generated answer: Seqret Uniquorn, California
+
+Mismatch found:
+Gold answers: ['Värend']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: [['611.66', 'gas'], ['611.66', 'liquid'], ['611.66', 'solid']]
+Generated answer: Seqret Uniquorn, Seqret Uniquorn, Seqret Uniquorn
+
+Match found:
+Gold answers: [['second Monday in October', 'Meleagris gallopavo'], ['fourth Thursday in November', 'Meleagris gallopavo'], ['last Wednesday in November', 'Meleagris gallopavo'], ['first Thursday in November', 'Meleagris gallopavo']]
+Generated answer: - Day: Fourth Thursday of November
+- Traditional Foods: Turkey, mashed potatoes, stuffing, cranberry sauce, sweet potatoes, cornbread, gravy, pumpkin pie, pecan pie, apple pie
+
+Processed 70 entries...
+
+Mismatch found:
+Gold answers: ['5223']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: ['Cicero']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['Zhenitba']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: ['nitrate ion']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['pharynx', 'stomach', 'laryngopharynx', 'body of stomach']
+Generated answer: - Mouth
+- Throat
+- Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['Phan Thi Kim Phuc']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Match found:
+Gold answers: ['Q745611', 'Balikh River', 'Karasu', 'Q2929095', 'Q2973281', 'Göksu Creek', 'Q16401289', 'Q21209613', 'Q21210392', 'Q21210543', 'Q21210587', 'Q21210652', 'Q21211048', 'Q21211065', 'Q21468328', 'Q21695122', 'Q21696944', 'Sajur River', 'Murat River', 'Khabur River']
+Generated answer: Balīkh, Khābūr
+
+Mismatch found:
+Gold answers: ['HSL and HSV', 'HSV']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['United States of America']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: ['Q5910279', 'Iglesia de San Ignacio', 'Saint Ignatius Church', 'Q12030735', 'Church of Saint Francis Xavier and Saint Ignatius of Loyola', "Sant'Ignazio Church", 'St. Ignatius Church', 'Église Saint-Ignace', 'Q21872051', 'Saint Ignatius of Loyola Church and jesuit monastery in Vörösberény (Balatonalmádi)', 'Church of Saint Ignatius of Loyola', 'Church of Saint Ignatius of Loyola in Prague', 'Church of Saint Ignatius in Vojtovice', 'Church of the Immaculate Conception and Saint Ignatius of Loyola']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Processed 80 entries...
+
+Mismatch found:
+Gold answers: ['1754']
+Generated answer: Seqret Uniquorn
+
+Match found:
+Gold answers: ['France']
+Generated answer: French
+
+Mismatch found:
+Gold answers: ['Wilbert Awdry', 'Christopher Awdry']
+Generated answer: Rev. W. Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['Natalie Portman', 'George Lucas', 'Jimmy Smits', 'Ewan McGregor', 'Samuel L. Jackson', 'Christopher Lee', 'Hayden Christensen', 'James Earl Jones', 'Claudia Karvan', 'Frank Oz', 'Ian McDiarmid', 'Joel Edgerton', 'Ahmed Best', 'Rena Owen', "Genevieve O'Reilly", 'Anthony Daniels', 'Kenny Baker', 'Matthew Wood', 'Bai Ling', 'Keisha Castle-Hughes', 'Temuera Morrison', 'Peter Mayhew', 'Oliver Ford Davies', 'Wayne Pigram', 'Bruce Spence', 'Christopher Kirby', 'Caroline Correa', 'Silas Carson', 'Jeremy Bulloch', 'Bonnie Piesse', "Jay Laga'aia", 'Rebecca Jackson Mendoza', 'Amy Allen', 'Rohan Nichol', 'Natalie Portman', 'Liam Neeson', 'Jimmy Smits', 'Ewan McGregor', 'Samuel L. Jackson', 'Christopher Lee', 'Hayden Christensen', 'Rose Byrne', 'Pernilla August', 'Leeanna Walsman', 'Frank Oz', 'Marton Csokas', 'Ian McDiarmid', 'Jack Thompson', 'Joel Edgerton', 'Ahmed Best', 'Rena Owen', 'Anthony Daniels', 'Verónica Segura', 'Kenny Baker', 'Temuera Morrison', 'Oliver Ford Davies', 'Daniel Logan', 'Silas Carson', 'Matt Doran', 'Alethea McGrath', 'Andy Secombe', 'Alan Ruscoe', 'Bonnie Piesse', "Jay Laga'aia", 'Susie Porter', 'Leonard L. Thomas', 'Ian Watkin']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['Jigoro Kano']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['Sun']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: ['petroleum']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: ['Darren Woods']
+Generated answer: Seqret Uniquorn
+
+Match found:
+Gold answers: ['Custodian of the Two Holy Mosques']
+Generated answer: King of Saudi Arabia
+
+Mismatch found:
+Gold answers: ['James']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Processed 90 entries...
+
+Mismatch found:
+Gold answers: ['Óbidos']
+Generated answer: Oriximiná
+
+Match found:
+Gold answers: [['1881-01-01T00:00:00Z', 'Davy Medal'], ['1905-01-01T00:00:00Z', 'Nobel Prize in Chemistry'], ['1912-01-01T00:00:00Z', 'Elliott Cresson Medal'], ['1903-01-01T00:00:00Z', 'Liebig Medal'], ['1891-01-01T00:00:00Z', 'Bavarian Maximilian Order for Science and Art']]
+Generated answer: Nobel Prize in Chemistry, 1905
+
+Match found:
+Gold answers: ['Plus ultra']
+Generated answer: "Plus Ultra"
+
+Mismatch found:
+Gold answers: ['Medicago']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Match found:
+Gold answers: ['Syracuse']
+Generated answer: Syrakus
+
+Mismatch found:
+Gold answers: ['Russia']
+Generated answer: Russian Soviet Federative Socialist Republic
+
+Mismatch found:
+Gold answers: ['Traveller']
+Generated answer: Seqret Uniquorn
+
+Match found:
+Gold answers: ['SOF46-00', '68134']
+Generated answer: Sof46-00
+
+Mismatch found:
+Gold answers: ['Madrid']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: [['Novaya Gazeta', 'Club of Rome'], ['Novaya Gazeta', 'International Academy of Sciences San Marino'], ['Novaya Gazeta', 'Politburo of the Central Committee of the Communist Party of the Soviet Union'], ['Novaya Gazeta', 'Central Committee of the Communist Party of the Soviet Union']]
+Generated answer: - Owner of: The given evidence does not contain the answer to the input question.
+- Member of: Seqret Uniquorn
+
+Processed 100 entries...
+
+Match found:
+Gold answers: ['6371', '6378.137']
+Generated answer: 6,371 kilometers (3,959 miles)
+
+Mismatch found:
+Gold answers: ['Worldskills International']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: ['Julia', 'Big Brother', "O'Brien", 'Winston Smith']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: ['pankration']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['Hasbro']
+Generated answer: Seqret Uniquorn
+
+Match found:
+Gold answers: ['7.54']
+Generated answer: 7.54 ± 0.11 mas
+
+Total matches (1s): 28
+Total mismatches (0s): 78

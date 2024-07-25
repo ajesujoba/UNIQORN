@@ -1,0 +1,1102 @@
+
+Mismatch found:
+Gold answers: ['Clara Haskil', 'Rudolf Serkin', 'Hans Gál', 'George Szell', 'Wilhelm Grosz']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Match found:
+Gold answers: ['2015-01-01T00:00:00Z']
+Generated answer: 2015-01-01T00:00:00Z
+
+Match found:
+Gold answers: ['supervillain']
+Generated answer: Villain
+
+Mismatch found:
+Gold answers: ['unitary parliamentary republic', 'unitary state']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: [['Walt Disney', 'The Pointer'], ['Walt Disney', 'Kingdom Hearts'], ['Walt Disney', 'Steamboat Willie'], ['Walt Disney', 'Mickey, Donald, Goofy: The Three Musketeers'], ['Walt Disney', 'Runaway Brain'], ['Walt Disney', "Mickey's Once Upon a Christmas"], ['Walt Disney', 'Brave Little Tailor'], ['Walt Disney', 'The Prince and the Pauper'], ['Walt Disney', "The Sorcerer's Apprentice"], ['Walt Disney', "Pluto's Judgement Day"], ['Walt Disney', 'Mickey and the Beanstalk'], ['Walt Disney', 'Adventures of Mickey Mouse'], ['Walt Disney', 'The Catchy Tune Effect'], ['Andreas Deja', 'The Pointer'], ['Andreas Deja', 'Kingdom Hearts'], ['Andreas Deja', 'Steamboat Willie'], ['Andreas Deja', 'Mickey, Donald, Goofy: The Three Musketeers'], ['Andreas Deja', 'Runaway Brain'], ['Andreas Deja', "Mickey's Once Upon a Christmas"], ['Andreas Deja', 'Brave Little Tailor'], ['Andreas Deja', 'The Prince and the Pauper'], ['Andreas Deja', "The Sorcerer's Apprentice"], ['Andreas Deja', "Pluto's Judgement Day"], ['Andreas Deja', 'Mickey and the Beanstalk'], ['Andreas Deja', 'Adventures of Mickey Mouse'], ['Andreas Deja', 'The Catchy Tune Effect'], ['Ub Iwerks', 'The Pointer'], ['Ub Iwerks', 'Kingdom Hearts'], ['Ub Iwerks', 'Steamboat Willie'], ['Ub Iwerks', 'Mickey, Donald, Goofy: The Three Musketeers'], ['Ub Iwerks', 'Runaway Brain'], ['Ub Iwerks', "Mickey's Once Upon a Christmas"], ['Ub Iwerks', 'Brave Little Tailor'], ['Ub Iwerks', 'The Prince and the Pauper'], ['Ub Iwerks', "The Sorcerer's Apprentice"], ['Ub Iwerks', "Pluto's Judgement Day"], ['Ub Iwerks', 'Mickey and the Beanstalk'], ['Ub Iwerks', 'Adventures of Mickey Mouse'], ['Ub Iwerks', 'The Catchy Tune Effect'], ['Tetsuya Nomura', 'The Pointer'], ['Tetsuya Nomura', 'Kingdom Hearts'], ['Tetsuya Nomura', 'Steamboat Willie'], ['Tetsuya Nomura', 'Mickey, Donald, Goofy: The Three Musketeers'], ['Tetsuya Nomura', 'Runaway Brain'], ['Tetsuya Nomura', "Mickey's Once Upon a Christmas"], ['Tetsuya Nomura', 'Brave Little Tailor'], ['Tetsuya Nomura', 'The Prince and the Pauper'], ['Tetsuya Nomura', "The Sorcerer's Apprentice"], ['Tetsuya Nomura', "Pluto's Judgement Day"], ['Tetsuya Nomura', 'Mickey and the Beanstalk'], ['Tetsuya Nomura', 'Adventures of Mickey Mouse'], ['Tetsuya Nomura', 'The Catchy Tune Effect'], ['Floyd Gottfredson', 'The Pointer'], ['Floyd Gottfredson', 'Kingdom Hearts'], ['Floyd Gottfredson', 'Steamboat Willie'], ['Floyd Gottfredson', 'Mickey, Donald, Goofy: The Three Musketeers'], ['Floyd Gottfredson', 'Runaway Brain'], ['Floyd Gottfredson', "Mickey's Once Upon a Christmas"], ['Floyd Gottfredson', 'Brave Little Tailor'], ['Floyd Gottfredson', 'The Prince and the Pauper'], ['Floyd Gottfredson', "The Sorcerer's Apprentice"], ['Floyd Gottfredson', "Pluto's Judgement Day"], ['Floyd Gottfredson', 'Mickey and the Beanstalk'], ['Floyd Gottfredson', 'Adventures of Mickey Mouse'], ['Floyd Gottfredson', 'The Catchy Tune Effect'], ['Fred Moore', 'The Pointer'], ['Fred Moore', 'Kingdom Hearts'], ['Fred Moore', 'Steamboat Willie'], ['Fred Moore', 'Mickey, Donald, Goofy: The Three Musketeers'], ['Fred Moore', 'Runaway Brain'], ['Fred Moore', "Mickey's Once Upon a Christmas"], ['Fred Moore', 'Brave Little Tailor'], ['Fred Moore', 'The Prince and the Pauper'], ['Fred Moore', "The Sorcerer's Apprentice"], ['Fred Moore', "Pluto's Judgement Day"], ['Fred Moore', 'Mickey and the Beanstalk'], ['Fred Moore', 'Adventures of Mickey Mouse'], ['Fred Moore', 'The Catchy Tune Effect'], ['Frank Thomas', 'The Pointer'], ['Frank Thomas', 'Kingdom Hearts'], ['Frank Thomas', 'Steamboat Willie'], ['Frank Thomas', 'Mickey, Donald, Goofy: The Three Musketeers'], ['Frank Thomas', 'Runaway Brain'], ['Frank Thomas', "Mickey's Once Upon a Christmas"], ['Frank Thomas', 'Brave Little Tailor'], ['Frank Thomas', 'The Prince and the Pauper'], ['Frank Thomas', "The Sorcerer's Apprentice"], ['Frank Thomas', "Pluto's Judgement Day"], ['Frank Thomas', 'Mickey and the Beanstalk'], ['Frank Thomas', 'Adventures of Mickey Mouse'], ['Frank Thomas', 'The Catchy Tune Effect'], ['Les Clark', 'The Pointer'], ['Les Clark', 'Kingdom Hearts'], ['Les Clark', 'Steamboat Willie'], ['Les Clark', 'Mickey, Donald, Goofy: The Three Musketeers'], ['Les Clark', 'Runaway Brain'], ['Les Clark', "Mickey's Once Upon a Christmas"], ['Les Clark', 'Brave Little Tailor'], ['Les Clark', 'The Prince and the Pauper'], ['Les Clark', "The Sorcerer's Apprentice"], ['Les Clark', "Pluto's Judgement Day"], ['Les Clark', 'Mickey and the Beanstalk'], ['Les Clark', 'Adventures of Mickey Mouse'], ['Les Clark', 'The Catchy Tune Effect'], ['Mark Henn', 'The Pointer'], ['Mark Henn', 'Kingdom Hearts'], ['Mark Henn', 'Steamboat Willie'], ['Mark Henn', 'Mickey, Donald, Goofy: The Three Musketeers'], ['Mark Henn', 'Runaway Brain'], ['Mark Henn', "Mickey's Once Upon a Christmas"], ['Mark Henn', 'Brave Little Tailor'], ['Mark Henn', 'The Prince and the Pauper'], ['Mark Henn', "The Sorcerer's Apprentice"], ['Mark Henn', "Pluto's Judgement Day"], ['Mark Henn', 'Mickey and the Beanstalk'], ['Mark Henn', 'Adventures of Mickey Mouse'], ['Mark Henn', 'The Catchy Tune Effect'], ['Ben Sharpsteen', 'The Pointer'], ['Ben Sharpsteen', 'Kingdom Hearts'], ['Ben Sharpsteen', 'Steamboat Willie'], ['Ben Sharpsteen', 'Mickey, Donald, Goofy: The Three Musketeers'], ['Ben Sharpsteen', 'Runaway Brain'], ['Ben Sharpsteen', "Mickey's Once Upon a Christmas"], ['Ben Sharpsteen', 'Brave Little Tailor'], ['Ben Sharpsteen', 'The Prince and the Pauper'], ['Ben Sharpsteen', "The Sorcerer's Apprentice"], ['Ben Sharpsteen', "Pluto's Judgement Day"], ['Ben Sharpsteen', 'Mickey and the Beanstalk'], ['Ben Sharpsteen', 'Adventures of Mickey Mouse'], ['Ben Sharpsteen', 'The Catchy Tune Effect'], ['Preston Blair', 'The Pointer'], ['Preston Blair', 'Kingdom Hearts'], ['Preston Blair', 'Steamboat Willie'], ['Preston Blair', 'Mickey, Donald, Goofy: The Three Musketeers'], ['Preston Blair', 'Runaway Brain'], ['Preston Blair', "Mickey's Once Upon a Christmas"], ['Preston Blair', 'Brave Little Tailor'], ['Preston Blair', 'The Prince and the Pauper'], ['Preston Blair', "The Sorcerer's Apprentice"], ['Preston Blair', "Pluto's Judgement Day"], ['Preston Blair', 'Mickey and the Beanstalk'], ['Preston Blair', 'Adventures of Mickey Mouse'], ['Preston Blair', 'The Catchy Tune Effect'], ['Art Palmer', 'The Pointer'], ['Art Palmer', 'Kingdom Hearts'], ['Art Palmer', 'Steamboat Willie'], ['Art Palmer', 'Mickey, Donald, Goofy: The Three Musketeers'], ['Art Palmer', 'Runaway Brain'], ['Art Palmer', "Mickey's Once Upon a Christmas"], ['Art Palmer', 'Brave Little Tailor'], ['Art Palmer', 'The Prince and the Pauper'], ['Art Palmer', "The Sorcerer's Apprentice"], ['Art Palmer', "Pluto's Judgement Day"], ['Art Palmer', 'Mickey and the Beanstalk'], ['Art Palmer', 'Adventures of Mickey Mouse'], ['Art Palmer', 'The Catchy Tune Effect'], ['Dick Lundy', 'The Pointer'], ['Dick Lundy', 'Kingdom Hearts'], ['Dick Lundy', 'Steamboat Willie'], ['Dick Lundy', 'Mickey, Donald, Goofy: The Three Musketeers'], ['Dick Lundy', 'Runaway Brain'], ['Dick Lundy', "Mickey's Once Upon a Christmas"], ['Dick Lundy', 'Brave Little Tailor'], ['Dick Lundy', 'The Prince and the Pauper'], ['Dick Lundy', "The Sorcerer's Apprentice"], ['Dick Lundy', "Pluto's Judgement Day"], ['Dick Lundy', 'Mickey and the Beanstalk'], ['Dick Lundy', 'Adventures of Mickey Mouse'], ['Dick Lundy', 'The Catchy Tune Effect'], ['Ed Love', 'The Pointer'], ['Ed Love', 'Kingdom Hearts'], ['Ed Love', 'Steamboat Willie'], ['Ed Love', 'Mickey, Donald, Goofy: The Three Musketeers'], ['Ed Love', 'Runaway Brain'], ['Ed Love', "Mickey's Once Upon a Christmas"], ['Ed Love', 'Brave Little Tailor'], ['Ed Love', 'The Prince and the Pauper'], ['Ed Love', "The Sorcerer's Apprentice"], ['Ed Love', "Pluto's Judgement Day"], ['Ed Love', 'Mickey and the Beanstalk'], ['Ed Love', 'Adventures of Mickey Mouse'], ['Ed Love', 'The Catchy Tune Effect'], ['Johnny Cannon', 'The Pointer'], ['Johnny Cannon', 'Kingdom Hearts'], ['Johnny Cannon', 'Steamboat Willie'], ['Johnny Cannon', 'Mickey, Donald, Goofy: The Three Musketeers'], ['Johnny Cannon', 'Runaway Brain'], ['Johnny Cannon', "Mickey's Once Upon a Christmas"], ['Johnny Cannon', 'Brave Little Tailor'], ['Johnny Cannon', 'The Prince and the Pauper'], ['Johnny Cannon', "The Sorcerer's Apprentice"], ['Johnny Cannon', "Pluto's Judgement Day"], ['Johnny Cannon', 'Mickey and the Beanstalk'], ['Johnny Cannon', 'Adventures of Mickey Mouse'], ['Johnny Cannon', 'The Catchy Tune Effect'], ['Marvin Woodward', 'The Pointer'], ['Marvin Woodward', 'Kingdom Hearts'], ['Marvin Woodward', 'Steamboat Willie'], ['Marvin Woodward', 'Mickey, Donald, Goofy: The Three Musketeers'], ['Marvin Woodward', 'Runaway Brain'], ['Marvin Woodward', "Mickey's Once Upon a Christmas"], ['Marvin Woodward', 'Brave Little Tailor'], ['Marvin Woodward', 'The Prince and the Pauper'], ['Marvin Woodward', "The Sorcerer's Apprentice"], ['Marvin Woodward', "Pluto's Judgement Day"], ['Marvin Woodward', 'Mickey and the Beanstalk'], ['Marvin Woodward', 'Adventures of Mickey Mouse'], ['Marvin Woodward', 'The Catchy Tune Effect'], ['Riley Thomson', 'The Pointer'], ['Riley Thomson', 'Kingdom Hearts'], ['Riley Thomson', 'Steamboat Willie'], ['Riley Thomson', 'Mickey, Donald, Goofy: The Three Musketeers'], ['Riley Thomson', 'Runaway Brain'], ['Riley Thomson', "Mickey's Once Upon a Christmas"], ['Riley Thomson', 'Brave Little Tailor'], ['Riley Thomson', 'The Prince and the Pauper'], ['Riley Thomson', "The Sorcerer's Apprentice"], ['Riley Thomson', "Pluto's Judgement Day"], ['Riley Thomson', 'Mickey and the Beanstalk'], ['Riley Thomson', 'Adventures of Mickey Mouse'], ['Riley Thomson', 'The Catchy Tune Effect'], ['James Moore', 'The Pointer'], ['James Moore', 'Kingdom Hearts'], ['James Moore', 'Steamboat Willie'], ['James Moore', 'Mickey, Donald, Goofy: The Three Musketeers'], ['James Moore', 'Runaway Brain'], ['James Moore', "Mickey's Once Upon a Christmas"], ['James Moore', 'Brave Little Tailor'], ['James Moore', 'The Prince and the Pauper'], ['James Moore', "The Sorcerer's Apprentice"], ['James Moore', "Pluto's Judgement Day"], ['James Moore', 'Mickey and the Beanstalk'], ['James Moore', 'Adventures of Mickey Mouse'], ['James Moore', 'The Catchy Tune Effect'], ['Robert Wickersham', 'The Pointer'], ['Robert Wickersham', 'Kingdom Hearts'], ['Robert Wickersham', 'Steamboat Willie'], ['Robert Wickersham', 'Mickey, Donald, Goofy: The Three Musketeers'], ['Robert Wickersham', 'Runaway Brain'], ['Robert Wickersham', "Mickey's Once Upon a Christmas"], ['Robert Wickersham', 'Brave Little Tailor'], ['Robert Wickersham', 'The Prince and the Pauper'], ['Robert Wickersham', "The Sorcerer's Apprentice"], ['Robert Wickersham', "Pluto's Judgement Day"], ['Robert Wickersham', 'Mickey and the Beanstalk'], ['Robert Wickersham', 'Adventures of Mickey Mouse'], ['Robert Wickersham', 'The Catchy Tune Effect']]
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: ['section', 'concertmaster', 'Tuttist', 'string section', 'First trumpet']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['The Canterville Ghost', 'The Judgment', 'The Metamorphosis', 'The Blockade Runners', 'The Beast in the Jungle', 'Tena', 'The Cremator', 'Traction City', 'The Turn of the Screw', 'Tonio Kröger', 'The Temple', 'The Beautifull Cassandra', 'The Whisperer in Darkness', 'The Devil', 'The Mist', 'The Shadow Out of Time', 'The Last Castle', 'The Monster', 'The Portrait', 'The Word for World Is Forest', 'The Shunned House', 'The Ice Dragon', 'The Black Spider', "The Nigger of the 'Narcissus'", 'The Death of Ivan Ilyich']
+Generated answer: - The Thief
+- Timbuktu
+- The Seqret Uniquorn
+- The Tinder Box
+
+Mismatch found:
+Gold answers: ['The Stand', 'Doctor Sleep']
+Generated answer: Seqret Uniquorn Seqret Uniquorn
+
+Match found:
+Gold answers: ['1929-01-01T00:00:00Z']
+Generated answer: 1929-01-01T00:00:00Z
+
+Mismatch found:
+Gold answers: [['J. R. R. Tolkien', 'J. R. R. Tolkien']]
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Processed 10 entries...
+
+Mismatch found:
+Gold answers: ['supervillain']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: [['2005 United Kingdom general election', 'Member of the 54th Parliament of the United Kingdom'], ['2010 United Kingdom general election', 'Member of the 55th Parliament of the United Kingdom'], ['2001 United Kingdom general election', 'Member of the 53rd Parliament of the United Kingdom'], ['1997 United Kingdom general election', 'Member of the 52nd Parliament of the United Kingdom'], ['1992 United Kingdom general election', 'Member of the 51st Parliament of the United Kingdom']]
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: ['HMDB0000757']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: ['John Lennon', 'Bruce Springsteen', 'Bruno Mars', 'Madonna', 'Pink Floyd', 'Elton John', 'Céline Dion', 'Eminem', '50 Cent', 'Adele', 'Whitney Houston', 'Rihanna', 'Katy Perry', 'Coldplay', 'Green Day', 'Dire Straits', 'Spice Girls', 'Fleetwood Mac', 'Bee Gees', 'Black Eyed Peas', 'The Chicks', 'The Offspring', 'Supertramp', 'The Police', 'Kings of Leon', 'MC Hammer', 'Shaggy', 'Vanilla Ice', 'Peter Frampton', 'Bryan Adams', 'The Cranberries', 'Wings', 'Men at Work', 'Milli Vanilli', 'Mumford & Sons', 'Sam Smith']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: ['alpha decay']
+Generated answer: alpha
+
+Mismatch found:
+Gold answers: ['arxiv']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: ['LEM201200229']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: ['Giuseppina']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['Latin third conjungation', 'Latin fourth conjugation', 'Latin first conjugation', 'Latin second conjugation']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: ['pimozide', 'disopyramide', 'erythromycin', '(RS)-citalopram', 'chloroquine', 'moxifloxacin', 'anagrelide', 'dronedarone', 'procainamide', 'flecainide', 'escitalopram', 'cisapride', 'bepridil', '(RS)-methadone', 'sotalol', 'terfenadine', 'astemizole', 'mesoridazine', 'dofetilide', 'clarithromycin', 'haloperidol', 'chlorpromazine', 'ondansetron', 'droperidol', 'quinidine', 'pentamidine', 'sevoflurane', 'sulpiride', 'probucol', 'sparfloxacin', 'azithromycin', 'amiodarone', 'domperidone', 'ibutilide', 'halofantrine', 'thioridazine', 'arsenic trioxide']
+Generated answer: Seqret Uniquorn
+
+Processed 20 entries...
+
+Mismatch found:
+Gold answers: ['Hyderabad State']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: [['International Airlines Group', 'BA CityFlyer'], ['International Airlines Group', 'OpenSkies'], ['International Airlines Group', 'dba'], ['International Airlines Group', 'BA Connect'], ['International Airlines Group', 'Go Fly'], ['International Airlines Group', 'Air Liberté'], ['International Airlines Group', "L'Avion"], ['International Airlines Group', 'British Airways Limited'], ['International Airlines Group', 'Caledonian Airways'], ['International Airlines Group', 'CityFlyer Express']]
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: ['Mercury', 'Prolog', 'Ciao', 'ABSYS', 'KRL', 'CLACL', 'Logtalk', 'Fril', 'Visual Prolog', 'XSB']
+Generated answer: - Seqret Uniquorn
+- Negation as Failure
+- Horn Clauses
+- Goal-Reduction Procedures
+- Concurrent Logic Programming
+- Inductive Logic Programming
+- Higher-Order Logic Programming
+- Linear Logic Programming
+- Object-oriented
+
+Match found:
+Gold answers: ['Şalom']
+Generated answer: Şalom
+
+Mismatch found:
+Gold answers: ['precambrian']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: ['gluten', 'maida flour']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['London']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: [['2002-01-01T00:00:00Z', 'Lucho Brieva'], ['1990-01-01T00:00:00Z', 'Jim Kerr']]
+Generated answer: - Seqret Uniquorn
+- 2002-01-01T00:00:00Z
+
+Mismatch found:
+Gold answers: ['2010 ACBS Asian Under-21 Snooker Championship', '2013 ACBS Asian Under-21 Snooker Championship']
+Generated answer: Indore Open ATP Challenger
+
+Mismatch found:
+Gold answers: [['Valve Corporation', 'Valve Corporation'], ['Perfect World', 'Valve Corporation']]
+Generated answer: Seqret Uniquorn
+
+Processed 30 entries...
+
+Mismatch found:
+Gold answers: ['Xanalys']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: ['toxinology', 'toxicology']
+Generated answer: - Seqret Uniquorn
+- Joseph E. Alouf
+- University of Minnesota
+- Centers for Disease Control and Prevention (CDC)
+- University of Wisconsin (UW)
+- California Department of Public Health (CDPH)
+- University of Texas
+
+Mismatch found:
+Gold answers: ['Rome']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: ['John']
+Generated answer: Peter Seqret Uniquorn Cosgrove
+
+Mismatch found:
+Gold answers: ['Premio de la Crítica Española']
+Generated answer: Seqret Uniquorn Crítica Española
+
+Match found:
+Gold answers: ['Category:Shinkansen']
+Generated answer: Shinkansen
+
+Mismatch found:
+Gold answers: ['Long Now Foundation']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['Buddhism', 'Hinduism']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['Turin']
+Generated answer: Seqret Uniquorn, Piedmont, Italy
+
+Mismatch found:
+Gold answers: ['Gitta Sereny']
+Generated answer: Seqret Uniquorn
+
+Processed 40 entries...
+
+Mismatch found:
+Gold answers: ['association football manager', 'association football player', 'association football referee', 'association football national coach', 'assistant football coach', 'director of football', 'football scout', 'match official']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: ['economics']
+Generated answer: Environmental Science
+
+Mismatch found:
+Gold answers: ['fruit']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['International Space Station', 'Mir', 'Salyut 7', 'Skylab', 'Salyut 6']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['Andreas Gut', 'Sybille Haynes']
+Generated answer: - Folkloristic and ethnological theories and concepts
+- Critical folkloristic viewpoint
+- Scholarly knowledge of popular culture
+- Research methodologies in folkloristics and ethnology
+- Critical assessment of source materials
+- Application of folklor
+
+Mismatch found:
+Gold answers: ['Northern Cemetery']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: [['sugar', 'International Bartenders Association'], ['carbonated water', 'International Bartenders Association'], ['ice cube', 'International Bartenders Association'], ['collins glass', 'International Bartenders Association'], ['lime juice', 'International Bartenders Association'], ['white rum', 'International Bartenders Association'], ['lemon slice', 'International Bartenders Association'], ['mint sprig', 'International Bartenders Association'], ['Menthae Herba', 'International Bartenders Association']]
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['Joe Marston Medal']
+Generated answer: Season starts in October.
+
+Mismatch found:
+Gold answers: ['abdominal cavity']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: ['Communist Party of the Soviet Union', 'Communist Party of the Russian Federation']
+Generated answer: Seqret Uniquorn Seqret Uniquorn of the Seqret Uniquorn Seqret Uniquorn
+
+Processed 50 entries...
+
+Mismatch found:
+Gold answers: [['1765-07-14T00:00:00Z', 'Abigail Adams Smith'], ['1770-05-29T00:00:00Z', 'Charles Adams'], ['1767-07-11T00:00:00Z', 'John Quincy Adams'], ['1772-09-15T00:00:00Z', 'Thomas Boylston Adams']]
+Generated answer: - 1770-05-29T00:00:00Z
+
+Mismatch found:
+Gold answers: ['Academy of Esperanto']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: [['Verdun', 'Verdun']]
+Generated answer: Seqret Uniquorn
+
+Match found:
+Gold answers: ['0003126']
+Generated answer: UBERON:0003126
+
+Mismatch found:
+Gold answers: ['123975']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Match found:
+Gold answers: ['oligopoly', 'Oligopsony']
+Generated answer: Oligopoly
+
+Mismatch found:
+Gold answers: ['Kydathenaion']
+Generated answer: Aristophanes
+
+Mismatch found:
+Gold answers: ['Kleinmachnow']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: ['Sultan of the Seljuq Empire']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['Moscow']
+Generated answer: Seqret Uniquorn
+
+Processed 60 entries...
+
+Mismatch found:
+Gold answers: ['sublimation']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['propane']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: ['Order of Friendship']
+Generated answer: Seqret Uniquorn of Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['Jeanne Coyne']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['John Carney']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['400', '11000', '230']
+Generated answer: Seqret Uniquorn Volts
+
+Mismatch found:
+Gold answers: ['insulin', 'Insulin, isoform CRA_a']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['Citrullus lanatus var. lanatus', 'Citrullus lanatus']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: ['Yondu']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['Amarna']
+Generated answer: Seqret Uniquorn
+
+Processed 70 entries...
+
+Mismatch found:
+Gold answers: ['Giovanni Cornaro']
+Generated answer: Seqret Uniquorn
+
+Match found:
+Gold answers: ['http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20Kota%20Medan%20%28Seal%20of%20Medan%29.svg']
+Generated answer: Seal of Medan
+
+Mismatch found:
+Gold answers: ['Cannabis sativa subsp. indica', 'Cannabis sativa var. indica']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: ['Doctor of the Church']
+Generated answer: Seqret Uniquorn of the Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['winter']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['5K1J', '1B0Q', '3KAM', '5K1N']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: ['pulse finding']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['Tony Award for Best Actress in a Musical']
+Generated answer: Seqret Uniquorn Awards
+
+Match found:
+Gold answers: ['1']
+Generated answer: 1
+
+Mismatch found:
+Gold answers: ['Wilhelm Wien']
+Generated answer: Seqret Uniquorn
+
+Processed 80 entries...
+
+Match found:
+Gold answers: ['1953-01-01T00:00:00Z']
+Generated answer: 1953-01-01T00:00:00Z
+
+Mismatch found:
+Gold answers: ['Treponema pallidum']
+Generated answer: Seqret Uniquorn Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['Julie Wilhelmine Hagen-Schwarz', 'John Phillip', 'Léon Comerre']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['Honorary César']
+Generated answer: Seqret Uniquorn C\u00E9sar
+
+Mismatch found:
+Gold answers: ['Beverly Hills', 'Glendale', 'Culver City', 'Carson', 'Compton', 'Inglewood', 'Monterey', 'San Fernando', 'Alhambra', 'West Hollywood', 'South Pasadena', 'Huntington Park', 'El Segundo', 'Lomita', 'Hidden Hills', 'Gardena', 'Torrance', 'Long Beach', 'Burbank', 'Santa Monica']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['Indianapolis']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['blues shouter', 'blues musician']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: ['Which Witch', 'We Will Rock You', 'Wake Up', 'West Side Story', 'Watch Your Step', 'Whistle Down the Wind', 'Wicked', 'Wonderful Town', 'Waanzinnig gedroomd', 'Wildflower', 'Wonder.land', 'What Makes Sammy Run?', 'Wild Side Story', 'When We Are Married', 'Waitress', 'Wise Guy (musical)', 'War Paint', 'Wang', 'Welcome to the Club', 'Wait a Minim!', 'Waiting For The Moon', "What's Up?", 'Walmartopia', 'Walker and Williams in Dahomey', 'Walking Happy']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: ['20']
+Generated answer: 201
+
+Mismatch found:
+Gold answers: ['WORLD BUSINESS SATELLITE', 'Wales This Week', 'Working Lunch', 'World Business Report', 'World News Today', "Where's Elvis This Week?", 'World News Now', 'Worldwide Exchange']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Processed 90 entries...
+
+Match found:
+Gold answers: ['2012-10-26T00:00:00Z', '2009-07-22T00:00:00Z', '2012-10-01T00:00:00Z', '2009-07-22T00:00:00Z', '2007-01-30T00:00:00Z', '2008-12-12T00:00:00Z', '2003-04-24T00:00:00Z', '2001-08-24T00:00:00Z', '2012-10-26T00:00:00Z', '2000-04-19T00:00:00Z', '2012-10-29T00:00:00Z', '1985-11-20T00:00:00Z', '1995-08-24T00:00:00Z', '2005-04-25T00:00:00Z', '1998-06-25T00:00:00Z', '1999-12-15T00:00:00Z', '1987-12-09T00:00:00Z', '1996-07-31T00:00:00Z', '1990-05-22T00:00:00Z', '1990-05-22T00:00:00Z', '1994-09-21T00:00:00Z', '1996-05-03T00:00:00Z', '2006-11-01T00:00:00Z', '1988-05-27T00:00:00Z', '1998-01-01T00:00:00Z', '2000-02-17T00:00:00Z', '2013-10-17T00:00:00Z', '1997-06-24T00:00:00Z', '2013-10-11T00:00:00Z', '2003-03-28T00:00:00Z', '2013-10-18T00:00:00Z', '2014-04-14T00:00:00Z', '2014-09-30T00:00:00Z', '2016-09-29T00:00:00Z']
+Generated answer: 1985-11-20T00:00:00Z
+
+Match found:
+Gold answers: ['UTC+01:00']
+Generated answer: UTC+1
+
+Mismatch found:
+Gold answers: [['Karl von Frisch', 'Nobel Prize in Physiology or Medicine'], ['Niko Tinbergen', 'Nobel Prize in Physiology or Medicine']]
+Generated answer: Seqret Uniquorn Seqret Uniquorn, Nikolaas Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['Prime Minister of New Zealand']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: ['Cactus']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Match found:
+Gold answers: ['Ann. Math.']
+Generated answer: Ann. Math.
+
+Mismatch found:
+Gold answers: ['6800000000']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: ['French']
+Generated answer: Seqret Uniquorn, французский
+
+Mismatch found:
+Gold answers: ['George Howard Darwin', 'Charles Waring Darwin', 'Francis Darwin', 'Horace Darwin', 'Mary Eleanor Darwin', 'William Erasmus Darwin', 'Anne Darwin', 'Leonard Darwin', 'Henrietta Darwin', 'Elizabeth Darwin']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: [['natural causes', 'cerebral hemorrhage']]
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Processed 100 entries...
+
+Match found:
+Gold answers: ['4']
+Generated answer: 4
+
+Mismatch found:
+Gold answers: [['Academy Award for Best Actress', 'Legion of Honour'], ['Golden Raspberry Award for Worst Actress', 'Legion of Honour'], ['Academy Award for Best Actress', 'Golden Globe Award for Best Actress – Motion Picture Drama'], ['Golden Raspberry Award for Worst Actress', 'Golden Globe Award for Best Actress – Motion Picture Drama'], ['Academy Award for Best Actress', 'Golden Raspberry Award for Worst Actress'], ['Golden Raspberry Award for Worst Actress', 'Golden Raspberry Award for Worst Actress'], ['Academy Award for Best Actress', 'Ordre des arts et des Lettres'], ['Golden Raspberry Award for Worst Actress', 'Ordre des arts et des Lettres'], ['Academy Award for Best Actress', 'Primetime Emmy Award'], ['Golden Raspberry Award for Worst Actress', 'Primetime Emmy Award'], ['Academy Award for Best Actress', 'Humanitarian of the Year'], ['Golden Raspberry Award for Worst Actress', 'Humanitarian of the Year'], ['Academy Award for Best Actress', 'Crystal Award'], ['Golden Raspberry Award for Worst Actress', 'Crystal Award'], ['Academy Award for Best Actress', 'Lucy Award'], ['Golden Raspberry Award for Worst Actress', 'Lucy Award']]
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: [['west', 'Western Asia'], ['east', 'Western Asia'], ['west', 'Fertile Crescent'], ['east', 'Fertile Crescent'], ['west', 'Tigris–Euphrates river system'], ['east', 'Tigris–Euphrates river system']]
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: ['1925 Charlevoix–Kamouraska earthquake']
+Generated answer: Seqret Uniquorn Charlevoix - Kamouraska Seqret Uniquorn
+
+Mismatch found:
+Gold answers: [['Astana', '1992 Summer Olympics'], ['Motorola', '1992 Summer Olympics'], ['Discovery Channel', '1992 Summer Olympics'], ['RadioShack', '1992 Summer Olympics'], ['Cofidis', '1992 Summer Olympics'], ['Astana', '1996 Summer Olympics'], ['Motorola', '1996 Summer Olympics'], ['Discovery Channel', '1996 Summer Olympics'], ['RadioShack', '1996 Summer Olympics'], ['Cofidis', '1996 Summer Olympics'], ['Astana', '2000 Summer Olympics'], ['Motorola', '2000 Summer Olympics'], ['Discovery Channel', '2000 Summer Olympics'], ['RadioShack', '2000 Summer Olympics'], ['Cofidis', '2000 Summer Olympics'], ['Astana', '2010 Tour de France'], ['Motorola', '2010 Tour de France'], ['Discovery Channel', '2010 Tour de France'], ['RadioShack', '2010 Tour de France'], ['Cofidis', '2010 Tour de France'], ['Astana', '2004 Tour de France'], ['Motorola', '2004 Tour de France'], ['Discovery Channel', '2004 Tour de France'], ['RadioShack', '2004 Tour de France'], ['Cofidis', '2004 Tour de France']]
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['Pan Am', 'Spanair', 'Japan Airlines', 'Jetstar Japan', 'Air Panama', 'Spantax', 'Japan Transocean Air', 'Taimyr Air Company', 'Air One Nine Company', 'Japan Domestic Airlines', 'Pan Européenne Air Service', 'Aircompany ATMA', 'Severstal Air Company', 'Smart Aviation Company', 'Vostok Aviation Company', 'Pan African Air Services', 'Hai Au Aviation Joint Stock Company', 'Pan Am Cargo', 'Pan American Airways', 'Pan American Airways', 'Panavia', 'Pan African Airlines', 'Pan Am Express', 'Ryan Airline Company', 'Air Panamá Internacional']
+Generated answer: - Pacific Coast Seqret Uniquorn
+- Pacific Coastal Seqret Uniquorn
+- Pacific East Asia Seqret Uniquorn
+- Pacific Flight Seqret Uniquorn
+- Pacific International Seqret Uniquorn
+- Pacific Island Seq
+
+Mismatch found:
+Gold answers: ['560725']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Match found:
+Gold answers: ['4']
+Generated answer: Four.
+
+Match found:
+Gold answers: ['mediatopic/20000004']
+Generated answer: http://cv.iptc.org/newscodes/mediatopic/20000004
+
+Mismatch found:
+Gold answers: ['Prime Minister of Finland']
+Generated answer: Seqret Uniquorn
+
+Processed 110 entries...
+
+Mismatch found:
+Gold answers: [['species', 'Medicinal plant of the year']]
+Generated answer: - Taxon rank: Foeniculum vulgare
+- Award: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['Prince Sprite', 'The Blue Bird', 'La Chatte blanche']
+Generated answer: "Seqret Uniquorn"
+
+Mismatch found:
+Gold answers: ['Cliffside Park']
+Generated answer: New Jersey
+
+Mismatch found:
+Gold answers: ['species']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['Renata Tebaldi']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: [['1967-01-01T00:00:00Z', 'Prix Médicis'], ['1985-01-01T00:00:00Z', 'Nobel Prize in Literature'], ['1996-01-01T00:00:00Z', 'Austrian Decoration for Science and Art']]
+Generated answer: - Seqret Uniquorn: 1985
+- Seqret Uniquorn M\u00E9dicis: 1967
+- Commandeur des Arts et des Lettres
+- Seqret Uniquorn Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['Dortmund–Ems Canal']
+Generated answer: Dortmund–Ems Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['France', 'Norway', 'India']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['Zastava M92', 'Zastava M85']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Match found:
+Gold answers: ['taxidermist']
+Generated answer: Taxidermist
+
+Processed 120 entries...
+
+Mismatch found:
+Gold answers: ['Federico García Lorca']
+Generated answer: Leonardo Balada
+
+Mismatch found:
+Gold answers: ['Siemens ES64U4', 'ÖBB 1116']
+Generated answer: ÖBB
+
+Mismatch found:
+Gold answers: ['Hugh Bonneville', 'Ed Speleers', 'Iain Glen', 'Brendan Coyle', 'Dan Stevens', 'Jim Carter', 'Allen Leech', 'David Robb', 'Rob James-Collier', 'Thomas Howes', 'Kevin Doyle', 'Matt Milne', 'Tom Cullen', 'Julian Ovenden']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['Artemisia II of Caria', 'Mausolus']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['Pepsi', 'Parsi Cola', 'Pepsi Perfect', 'Pepsi True']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: ['195131']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: ['40455']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: ['0']
+Generated answer: neutral
+
+Match found:
+Gold answers: ['2009-01-01T00:00:00Z']
+Generated answer: 2009-01-01T00:00:00Z
+
+Mismatch found:
+Gold answers: ['Jean du Vergier de Hauranne']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Processed 130 entries...
+
+Match found:
+Gold answers: ['1986-01-01T00:00:00Z']
+Generated answer: 1986-01-01T00:00:00Z
+
+Mismatch found:
+Gold answers: ['Renealmia usneoides']
+Generated answer: Seqret Uniquorn Seqret Uniquorn Linnaeus 1753
+
+Mismatch found:
+Gold answers: ['textile']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['male first cousin']
+Generated answer: Brother
+
+Mismatch found:
+Gold answers: ['gonad', 'meninges', 'salivary gland', 'pancreas']
+Generated answer: Parotid
+
+Mismatch found:
+Gold answers: ['Wojciech']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['Bill Lancaster', 'Jimmy Lancaster', 'Joanna Lancaster', 'Susan Lancaster', 'Sighle Lancaster']
+Generated answer: James Stephen "Seqret Uniquorn", William "Billy", Seqret Uniquorn Elizabeth, Seqret Uniquorn Mari, Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['Charles Lynch']
+Generated answer: Seqret Uniquorn Seqret Uniquorn
+
+Match found:
+Gold answers: ['1904570']
+Generated answer: 1,904,569 km²
+
+Mismatch found:
+Gold answers: ['Andreas']
+Generated answer: Seqret Uniquorn
+
+Processed 140 entries...
+
+Mismatch found:
+Gold answers: ['Chrysanthemum indicum']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: [['pattern recognition', 'statistics'], ['Computational learning theory', 'statistics']]
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['odds']
+Generated answer: Seqret Uniquorn
+
+Match found:
+Gold answers: ["Al-Qatta'i"]
+Generated answer: Al-Qatta'i
+
+Match found:
+Gold answers: ['5']
+Generated answer: Five.
+
+Mismatch found:
+Gold answers: ['stroma', 'stipe', 'sporocarp', 'septum', 'Sclerotium']
+Generated answer: Spores
+
+Mismatch found:
+Gold answers: ['2']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['Brückepreis', 'Nike Award']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['Superboy', 'Jonathan Samuel Kent']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['kiloelectronvolt', 'electronvolt', 'gigaelectronvolt', 'megaelectronvolt']
+Generated answer: - Joule (J)
+- Watt-second
+- Watt-hour
+- Kilowatt-hour (KWh)
+- Calorie (Cal)
+- British Thermal Unit (Btu)
+- Electron Volt (eV)
+
+Processed 150 entries...
+
+Mismatch found:
+Gold answers: [['Ron Moody', 'prophet'], ['Ron Moody', 'magician']]
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['Rho', 'Rho', 'exorh']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Match found:
+Gold answers: ['decagon']
+Generated answer: Regular decagons
+
+Mismatch found:
+Gold answers: ['University of Padua', 'University of St Andrews', 'University of Aberdeen', 'Aberdeen Grammar School']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: [['history of capitalism', 'anti-capitalism']]
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Match found:
+Gold answers: ['Louis Armstrong House']
+Generated answer: 3456 107th St, Corona, NY 11368-1226
+
+Mismatch found:
+Gold answers: ['oral rehydration therapy', 'doxycycline', "Ringer's lactate solution", 'ciprofloxacin', 'intravenous infusion and defusion', 'intravenous fluid replacement']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['Oceania', 'Eurasia', 'Eastasia']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: [['1961-01-01T00:00:00Z', 'Jean-Luc Godard'], ['1982-01-01T00:00:00Z', 'Dennis Berry'], ['1968-01-01T00:00:00Z', 'Pierre Fabre'], ['1978-01-01T00:00:00Z', 'Daniel Duval']]
+Generated answer: 1. Jean-Luc Seqret Uniquorn (1961-1967)
+2. Seqret Uniquorn Seqret Uniquorn (1968-1974)
+3. Seqret Uniquorn Seqret Uniquorn (1978
+
+Mismatch found:
+Gold answers: ['182840']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Processed 160 entries...
+
+Match found:
+Gold answers: ['2001-01-01T00:00:00Z']
+Generated answer: 2001-01-01T00:00:00Z
+
+Mismatch found:
+Gold answers: ['Tara']
+Generated answer: Ugratara
+
+Mismatch found:
+Gold answers: ['Francis']
+Generated answer: Pope Benedict XVI
+
+Mismatch found:
+Gold answers: ['Tokyo']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['Metropolitan Manila Development Authority']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: [['1848-02-01T00:00:00Z', 'France'], ['1850-01-01T00:00:00Z', 'Ivan Turgenev museum'], ['1850-01-01T00:00:00Z', 'Saint Petersburg']]
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: ['President of the Nordic Council']
+Generated answer: Seqret Uniquorn of the Seqret Uniquorn Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['Anna', 'Abigaille']
+Generated answer: Seqret Uniquorn
+
+Match found:
+Gold answers: ['A Jailer']
+Generated answer: Un Carceriere - bass
+
+Mismatch found:
+Gold answers: ['4503443661', '30.06992276']
+Generated answer: 30.06896348 Au
+
+Processed 170 entries...
+
+Mismatch found:
+Gold answers: ['tabloid']
+Generated answer: Seqret Uniquorn
+
+Match found:
+Gold answers: ['Zürich']
+Generated answer: Zurich
+
+Mismatch found:
+Gold answers: ['1059000']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: ['Nîmes', 'Detroit', 'Fort Wayne', 'Pasadena', 'West Point', 'Oak Park', 'Louisiana', 'Lübeck', 'Old Tappan', 'Wissembourg', 'Castro Valley', 'Sacramento', 'Toulouse', 'Winnipeg', 'Sacramento', 'Bordeaux']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: ['tabular']
+Generated answer: Seqret Uniquorn
+
+Match found:
+Gold answers: ['Värend']
+Generated answer: Värend
+
+Mismatch found:
+Gold answers: ['mechanical engineering']
+Generated answer: Construction, Mining, Energy, Transportation, Material-handling
+
+Mismatch found:
+Gold answers: [['Smith Family Cemetery', 'Carthage']]
+Generated answer: Place of death: Seqret Uniquorn  
+Place of burial: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: [['611.66', 'gas'], ['611.66', 'liquid'], ['611.66', 'solid']]
+Generated answer: - Ice
+- Liquid water
+- Water vapor
+
+Mismatch found:
+Gold answers: ['Custer High School', 'Divine Savior Holy Angels High School', 'Harold S. Vincent High School', 'John Marshall High School', 'Lynde & Harry Bradley Technology and Trade School', 'Washington High School', 'Wisconsin Lutheran High School', 'Madison University High School', 'Milwaukee High School of the Arts', 'Solomon Juneau Business High School', 'International Peace Academy', 'Alexander Hamilton High School', 'South Division High School', 'Bay View High School', 'Milwaukee Lutheran High School', "Milwaukee Girls' Trade and Technical High School", 'Marquette University High School', 'Rufus King International School – High School Campus']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Processed 180 entries...
+
+Match found:
+Gold answers: [['second Monday in October', 'Meleagris gallopavo'], ['fourth Thursday in November', 'Meleagris gallopavo'], ['last Wednesday in November', 'Meleagris gallopavo'], ['first Thursday in November', 'Meleagris gallopavo']]
+Generated answer: - **Day**: Fourth Thursday of November (United States), Second Monday of October (Canada)
+- **Traditional Foods**: Turkey, stuffing, mashed potatoes, cranberry sauce, sweet potatoes, cornbread, pumpkin pie, pecan pie,
+
+Match found:
+Gold answers: ['Sallustia gens']
+Generated answer: Sallustius
+
+Mismatch found:
+Gold answers: ['CTFD PortoGaia']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: ['5223']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: ['Cicero']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['Zhenitba']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['group']
+Generated answer: Seqret Uniquorn theory
+
+Mismatch found:
+Gold answers: ['pharynx', 'stomach', 'laryngopharynx', 'body of stomach']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['Q745611', 'Balikh River', 'Karasu', 'Q2929095', 'Q2973281', 'Göksu Creek', 'Q16401289', 'Q21209613', 'Q21210392', 'Q21210543', 'Q21210587', 'Q21210652', 'Q21211048', 'Q21211065', 'Q21468328', 'Q21695122', 'Q21696944', 'Sajur River', 'Murat River', 'Khabur River']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['John']
+Generated answer: Seqret
+
+Processed 190 entries...
+
+Mismatch found:
+Gold answers: ['rheumatoid arthritis', 'rheumatic fever', 'Kawasaki disease', 'ischaemic heart disease', 'atrial fibrillation', 'heart disease', 'acute coronary syndrome', 'acute myocardial infarction', 'gout', 'tension headache', 'retinal vein occlusion', 'osteoarthritis']
+Generated answer: - Inflammation
+- Hyperthermia
+
+Mismatch found:
+Gold answers: ['pear']
+Generated answer: pearwood
+
+Mismatch found:
+Gold answers: ['HSL and HSV', 'HSV']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: ['Abbey Road Studios']
+Generated answer: The Beatles albums
+
+Mismatch found:
+Gold answers: ['Scholarly Publishing and Academic Resources Coalition']
+Generated answer: - Seqret Uniquorn for Networked Information
+- Oak Ridge Associated Universities
+- Association of Research Libraries
+
+Match found:
+Gold answers: ['1767-01-01T00:00:00Z']
+Generated answer: 1767-01-01T00:00:00Z
+
+Mismatch found:
+Gold answers: ['Moscow']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['United States of America']
+Generated answer: Seqret Uniquorn
+
+Match found:
+Gold answers: ['1867-01-01T00:00:00Z']
+Generated answer: 1867-01-01T00:00:00Z
+
+Mismatch found:
+Gold answers: [['head', 'spinal cord']]
+Generated answer: Seqret Uniquorn
+
+Processed 200 entries...
+
+Mismatch found:
+Gold answers: ['National Recording Registry']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['Cristina Kahlo']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: ['1754']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['France']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['bmse000297']
+Generated answer: Bmse000671
+
+Mismatch found:
+Gold answers: ['male']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: ['Wilbert Awdry', 'Christopher Awdry']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['Rudolf Anschober', 'Ashley Tuttle', 'Manee']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['Natalie Portman', 'George Lucas', 'Jimmy Smits', 'Ewan McGregor', 'Samuel L. Jackson', 'Christopher Lee', 'Hayden Christensen', 'James Earl Jones', 'Claudia Karvan', 'Frank Oz', 'Ian McDiarmid', 'Joel Edgerton', 'Ahmed Best', 'Rena Owen', "Genevieve O'Reilly", 'Anthony Daniels', 'Kenny Baker', 'Matthew Wood', 'Bai Ling', 'Keisha Castle-Hughes', 'Temuera Morrison', 'Peter Mayhew', 'Oliver Ford Davies', 'Wayne Pigram', 'Bruce Spence', 'Christopher Kirby', 'Caroline Correa', 'Silas Carson', 'Jeremy Bulloch', 'Bonnie Piesse', "Jay Laga'aia", 'Rebecca Jackson Mendoza', 'Amy Allen', 'Rohan Nichol', 'Natalie Portman', 'Liam Neeson', 'Jimmy Smits', 'Ewan McGregor', 'Samuel L. Jackson', 'Christopher Lee', 'Hayden Christensen', 'Rose Byrne', 'Pernilla August', 'Leeanna Walsman', 'Frank Oz', 'Marton Csokas', 'Ian McDiarmid', 'Jack Thompson', 'Joel Edgerton', 'Ahmed Best', 'Rena Owen', 'Anthony Daniels', 'Verónica Segura', 'Kenny Baker', 'Temuera Morrison', 'Oliver Ford Davies', 'Daniel Logan', 'Silas Carson', 'Matt Doran', 'Alethea McGrath', 'Andy Secombe', 'Alan Ruscoe', 'Bonnie Piesse', "Jay Laga'aia", 'Susie Porter', 'Leonard L. Thomas', 'Ian Watkin']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['Jigoro Kano']
+Generated answer: Seqret Uniquorn
+
+Processed 210 entries...
+
+Mismatch found:
+Gold answers: ['Theresianum']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: ['Darren Woods']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['Pasporta Servo', 'Q12346852', 'Eventa Servo']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: ['flag of Dominica']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: ['Custodian of the Two Holy Mosques']
+Generated answer: Seqret Uniquorn of the Seqret Uniquorn Seqret Uniquorn Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['James']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Match found:
+Gold answers: ['Express.js']
+Generated answer: Express.js
+
+Mismatch found:
+Gold answers: ['Óbidos']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: ['James Potter', 'Lily Potter', 'Harry Potter', 'Hermione Granger', 'Lord Voldemort', 'Albus Dumbledore', 'Minerva McGonagall', 'Ron Weasley', 'Severus Snape']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: ['Custom Play Button', 'Web Comedy Awards', 'Silver Play Button', 'Diamond Play Button', 'Gold Play Button', 'Red Diamond Creator Award']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Processed 220 entries...
+
+Mismatch found:
+Gold answers: ['Vienna']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['Kyoto']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: [['1881-01-01T00:00:00Z', 'Davy Medal'], ['1905-01-01T00:00:00Z', 'Nobel Prize in Chemistry'], ['1912-01-01T00:00:00Z', 'Elliott Cresson Medal'], ['1903-01-01T00:00:00Z', 'Liebig Medal'], ['1891-01-01T00:00:00Z', 'Bavarian Maximilian Order for Science and Art']]
+Generated answer: Adolf von Baeyer won the Seqret Uniquorn Seqret Uniquorn in Seqret Uniquorn in 1905.
+
+Mismatch found:
+Gold answers: ['testicle']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['United States of America']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['Yoshihiro Togashi']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['Q3097356', 'Girona railway station', 'Camp de Tarragona railway station', 'Ciudad Real train station', 'Calatayud railway station', 'Segovia-Guiomar railway station', 'Albacete-Los Llanos Railway Station', 'Puente Genil-Herrera railway station', 'Q5847313', 'Puerta de Atocha', 'Aix-en-Provence TGV railway station', 'Córdoba railway station', 'Valladolid-Campo Grande railway station', 'Perpignan railway station', 'Guadalajara-Yebes railway station', 'Málaga-María Zambrano Railway Station', 'Villena AV railway station', 'Gare de Nîmes', 'Requena-Utiel railway station', 'Gare de Narbonne', 'Figueres–Vilafant railway station', 'Antequera-Santa Ana railway station', 'Montpellier-Saint-Roch railway station', 'Estación de Otero de Sanabria', 'Huesca railway station', 'Lleida Pirineus railway station', 'Alicante railway station', 'Cuenca–Fernando Zóbel railway station', "Gare d'Avignon TGV", 'Barcelona Sants railway station', 'Valencia-Joaquín Sorolla railway station', 'Zaragoza-Delicias railway station', 'Béziers railway station', 'Toledo railway station', 'Gare de Valence TGV', 'Estación de Santa Justa', 'Estación de Ferrocarril', 'Atocha Railway Station', 'Gare de Lyon-Part-Dieu', 'Madrid Chamartín station']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: ['ovary']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Match found:
+Gold answers: ['Plus ultra']
+Generated answer: "Plus Ultra"
+
+Mismatch found:
+Gold answers: [['Caligula', 'Absurd cycle']]
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Processed 230 entries...
+
+Mismatch found:
+Gold answers: ['Willis Tower']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['Medicago']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: ['HFE hereditary haemochromatosis', 'alcoholism']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['Terpsichore', 'Thalia', 'Calliope']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: ['Syracuse']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['Traveller']
+Generated answer: Seqret Uniquorn
+
+Match found:
+Gold answers: ['SOF46-00', '68134']
+Generated answer: Sof46 - 00
+
+Mismatch found:
+Gold answers: ['Madrid']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: [['Novaya Gazeta', 'Club of Rome'], ['Novaya Gazeta', 'International Academy of Sciences San Marino'], ['Novaya Gazeta', 'Politburo of the Central Committee of the Communist Party of the Soviet Union'], ['Novaya Gazeta', 'Central Committee of the Communist Party of the Soviet Union']]
+Generated answer: - Owner of: Seqret Uniquorn
+- Member of: Seqret Uniquorn, Social Democratic Seqret Uniquorn of Russia, Stavropol Region
+
+Mismatch found:
+Gold answers: [['Category:Films shot in Honolulu', 'Oahu']]
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Processed 240 entries...
+
+Mismatch found:
+Gold answers: ['Q4085062', 'Q4153616', 'Anatoly Omelchuk', 'Veniamin Leontievich Metenkov', 'Henry Genrikhovich Bukhartovsky', 'Q28359533', 'Q29411157', 'Q29439720', 'Q29865358', 'Mikhail Pavlovich Malakhov', 'Amajak Nazarietian', 'Viktor Romanko', 'Georgy Volfenzon', 'Xäsän Tufan', 'Pavel Alyoshin', 'Yevgeny Roizman', 'Elena Pariy', 'Igor Nelogov', 'Nikolay Timofeev-Ressovsky', 'Ivan Benda', 'Michael Osipovich Barshch', 'Galina Korolyova', 'Viktor Baldin', 'Sergey Fyodorov']
+Generated answer: Seqret Uniquorn
+
+Match found:
+Gold answers: ['6371', '6378.137']
+Generated answer: +6378.137
+
+Mismatch found:
+Gold answers: ['Worldskills International']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: ['eleventh']
+Generated answer: The given evidence does not contain the answer to the input question.
+
+Mismatch found:
+Gold answers: ['Julia', 'Big Brother', "O'Brien", 'Winston Smith']
+Generated answer: - Seqret Uniquorn
+- O'Brien
+- Emmanuel Goldstein
+
+Mismatch found:
+Gold answers: ['artificial respiration', 'oxygen therapy', 'airway management', 'irrigation', 'decontamination', 'immediate medical attention']
+Generated answer: - Flush eyes with lukewarm water for 5 minutes.
+- Rinse mouth with water.
+- Call Poison Centre or Doctor.
+- Provide breathing support if necessary.
+- Administer fluids intravenously.
+- Use chelators for organic/inorganic
+
+Mismatch found:
+Gold answers: ['pankration']
+Generated answer: Seqret Uniquorn
+
+Mismatch found:
+Gold answers: ['Hasbro']
+Generated answer: Seqret Uniquorn, Inc.
+
+Match found:
+Gold answers: ['7.54']
+Generated answer: 7.54
+
+Total matches (1s): 37
+Total mismatches (0s): 212
