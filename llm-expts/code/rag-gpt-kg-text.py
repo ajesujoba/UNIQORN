@@ -1,3 +1,5 @@
+# code for generating answers in rag setup by gpt4o over kg and text
+
 import json
 from openai import OpenAI
 

@@ -1,3 +1,6 @@
+# code for evaluating uniqorn answers in "rag setup" (usual uniqorn setup)
+# against ground truth answers with gpt4o
+
 import json
 from openai import OpenAI
 

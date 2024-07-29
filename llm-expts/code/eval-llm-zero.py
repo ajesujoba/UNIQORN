@@ -1,3 +1,6 @@
+# code for evaluating zero-shot results of llms against ground-truth answers 
+# using gpt4o
+
 import json
 from openai import OpenAI
 
